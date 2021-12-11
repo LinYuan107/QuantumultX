@@ -133,9 +133,7 @@ host,avodmp4s3ww-a.akamaihd.net,proxy
 host,api.viu.now.com,proxy
 host,abematv.akamaized.net,proxy
 host,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,proxy
-DOMAIN-SUFFIX,ytimg.com,YouTube,proxy
 DOMAIN-SUFFIX,ytimg.com,proxy
-DOMAIN-SUFFIX,youtube.com,YouTube,proxy
 DOMAIN-SUFFIX,youtube.com,proxy
 DOMAIN-SUFFIX,wetvinfo.com,proxy
 DOMAIN-SUFFIX,wetv.vip,proxy
@@ -302,11 +300,9 @@ DOMAIN-KEYWORD,dualstack.ichnaea-web-,proxy
 DOMAIN-KEYWORD,dualstack.apiproxy-,proxy
 DOMAIN-KEYWORD,bbcfmt,proxy
 DOMAIN-KEYWORD,avoddashs,proxy
-DOMAIN-KEYWORD,ameba,?? AbemaTV,proxy
+DOMAIN-KEYWORD,ameba,proxy
 DOMAIN-KEYWORD,abematv.akamaized.net,proxy
-DOMAIN-KEYWORD,abema,?? AbemaTV,proxy
 DOMAIN-KEYWORD,.hbogoasia.,proxy
-DOMAIN,yt3.ggpht.com,YouTube,proxy
 DOMAIN,yt3.ggpht.com,proxy
 DOMAIN,youtubei.googleapis.com,proxy
 DOMAIN,www.amazon.com,proxy
