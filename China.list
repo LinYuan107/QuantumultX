@@ -381,3 +381,69 @@ DOMAIN-SUFFIX,zhimg.com,direct
 DOMAIN-SUFFIX,zhuihd.com,direct
 host,download.jetbrains.com,direct
 host,images-cn.ssl-images-amazon.com,direct
+
+# (视频)
+# > Acfun
+DOMAIN-SUFFIX,acfun.cn,direct
+DOMAIN-SUFFIX,aixifan.com,direct
+# > bilibili
+DOMAIN-SUFFIX,biliapi.net,direct
+DOMAIN-SUFFIX,bilibili.com,direct
+DOMAIN-SUFFIX,bilivideo.com,direct
+DOMAIN-SUFFIX,hdslb.com,direct
+# > Tencent Video
+DOMAIN-SUFFIX,video.qq.com,direct
+DOMAIN-SUFFIX,i.qq.com,direct
+DOMAIN-SUFFIX,v.qq.com,direct
+# > iQiyi
+DOMAIN-SUFFIX,iqiyi.com,direct
+DOMAIN-SUFFIX,71edge.com,direct
+# > Youku
+DOMAIN-SUFFIX,soku.com,direct
+DOMAIN-SUFFIX,youku.com,direct
+DOMAIN-SUFFIX,ykimg.com,direct
+# > XiGua
+DOMAIN-SUFFIX,ixigua.com,direct
+DOMAIN-SUFFIX,snssdk.com,direct
+# > HunanTV
+DOMAIN-SUFFIX,hitv.com,direct
+DOMAIN-SUFFIX,hunantv.com,direct
+DOMAIN-SUFFIX,mgtv.com,direct
+# > Le
+DOMAIN-SUFFIX,le.com,direct
+# > PPLive
+DOMAIN-SUFFIX,pplive.cn,direct
+DOMAIN-SUFFIX,pptv.com,direct
+# > Sohu Video
+DOMAIN-SUFFIX,itc.cn,direct
+DOMAIN-SUFFIX,sohu.com,direct
+# > Migu Video
+DOMAIN-SUFFIX,cmvideo.cn,direct
+DOMAIN-SUFFIX,miguvideo.com,direct
+
+# (Music)
+# > QQ Music
+DOMAIN-SUFFIX,music.qq.com,direct
+DOMAIN-SUFFIX,music.tc.qq.com,direct
+DOMAIN-SUFFIX,qqmusic.qq.com,direct
+DOMAIN-SUFFIX,tencentmusic.com,direct
+DOMAIN-SUFFIX,y.qq.com,direct
+DOMAIN,aqqmusic.tc.qq.com,direct
+DOMAIN,moo.qq.com,direct
+# > China Music Corp
+DOMAIN-SUFFIX,kuwo.cn,direct
+DOMAIN-SUFFIX,kugou.com,direct
+# > Netease Cloud Music
+DOMAIN-SUFFIX,music.163.com,direct
+DOMAIN-SUFFIX,music.126.net,direct
+DOMAIN,mam.netease.com,direct
+DOMAIN,api.iplay.163.com,direct
+# > Qianqian Music
+DOMAIN-SUFFIX,qianqian.com,direct
+DOMAIN-SUFFIX,taihe.com,direct
+# > Migu Music
+DOMAIN-SUFFIX,migu.cn,direct
+# > Xiaomi
+DOMAIN-SUFFIX,ai.xiaomi.com,direct
+DOMAIN-SUFFIX,music.xiaomi.com,direct
+DOMAIN-SUFFIX,dmhmusic.com,direct
