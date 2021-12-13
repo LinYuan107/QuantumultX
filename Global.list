@@ -635,3 +635,6 @@ DOMAIN-SUFFIX,x-art.com,📡 Global
 DOMAIN-SUFFIX,yimg.com,📡 Global
 host,api.steampowered.com,📡 Global
 host,store.steampowered.com,📡 Global
+
+#机场
+DOMAIN-SUFFIX,naixisubs.com,proxy
