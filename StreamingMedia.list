@@ -11,3 +11,67 @@ ip-cidr, 91.108.16.0/22,proxy
 ip-cidr, 91.108.56.0/22,proxy
 ip-cidr, 149.154.160.0/20,proxy
 
+# > Emby  
+DOMAIN-SUFFIX,emby.nexitally.com,proxy
+
+# > Officia Websites
+DOMAIN-SUFFIX,flightpacific.net,proxy 
+DOMAIN-SUFFIX,nexitallysecure.com,proxy 
+DOMAIN-SUFFIX,nexitally.com,proxy 
+DOMAIN-SUFFIX,amysecure.com,proxy 
+DOMAIN-SUFFIX,amytele.com,proxy
+
+# > Tiktok
+DOMAIN-SUFFIX,byteoversea.com,proxy
+DOMAIN-SUFFIX,ibytedtos.com,proxy
+DOMAIN-SUFFIX,ipstatp.com,proxy
+DOMAIN-SUFFIX,muscdn.com,proxy
+DOMAIN-SUFFIX,musical.ly,proxy
+DOMAIN-SUFFIX,tiktok.com,proxy
+DOMAIN-SUFFIX,tik-tokapi.com,proxy
+DOMAIN-SUFFIX,tiktokcdn.com,proxy
+DOMAIN-SUFFIX,tiktokv.com,proxy
+DOMAIN-KEYWORD,-tiktokcdn-com,proxy
+
+# > Twitch
+DOMAIN-SUFFIX,twitch.tv,proxy
+DOMAIN-SUFFIX,twitchcdn.net,proxy
+DOMAIN-SUFFIX,ttvnw.net,proxy
+DOMAIN-SUFFIX,jtvnw.net,proxy
+
+# > YouTube
+user-agent,com.google.ios.youtube*,proxy
+user-agent,YouTube*,proxy
+DOMAIN-SUFFIX,googlevideo.com,proxy
+DOMAIN-SUFFIX,youtube.com,proxy
+host,youtubei.googleapis.com,proxy
+
+# > Netflix
+user-agent,Argo*,proxy
+DOMAIN-SUFFIX,netflix.com,proxy
+DOMAIN-SUFFIX,netflix.net,proxy
+DOMAIN-SUFFIX,nflxext.com,proxy
+DOMAIN-SUFFIX,nflximg.com,proxy
+DOMAIN-SUFFIX,nflximg.net,proxy
+DOMAIN-SUFFIX,nflxso.net,proxy
+DOMAIN-SUFFIX,nflxvideo.net,proxy
+DOMAIN-SUFFIX,netflixdnstest0.com,proxy
+DOMAIN-SUFFIX,netflixdnstest1.com,proxy
+DOMAIN-SUFFIX,netflixdnstest2.com,proxy
+DOMAIN-SUFFIX,netflixdnstest3.com,proxy
+DOMAIN-SUFFIX,netflixdnstest4.com,proxy
+DOMAIN-SUFFIX,netflixdnstest5.com,proxy
+DOMAIN-SUFFIX,netflixdnstest6.com,proxy
+DOMAIN-SUFFIX,netflixdnstest7.com,proxy
+DOMAIN-SUFFIX,netflixdnstest8.com,proxy
+DOMAIN-SUFFIX,netflixdnstest9.com,proxy
+ip-cidr, 23.246.0.0/18,proxy
+ip-cidr, 37.77.184.0/21,proxy
+ip-cidr, 45.57.0.0/17,proxy
+ip-cidr, 64.120.128.0/17,proxy
+ip-cidr, 66.197.128.0/17,proxy
+ip-cidr, 108.175.32.0/20,proxy
+ip-cidr, 192.173.64.0/18,proxy
+ip-cidr, 198.38.96.0/19,proxy
+ip-cidr, 198.45.48.0/20,proxy
+
