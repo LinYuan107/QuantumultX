@@ -359,11 +359,11 @@ DOMAIN-SUFFIX,ytimg.com,🎬 流媒体
 DOMAIN,youtubei.googleapis.com,🎬 流媒体
 DOMAIN,yt3.ggpht.com,🎬 流媒体
 # > bilibili
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN,upos-hz-mirrorakam.akamaized.net
-DOMAIN-KEYWORD,cn-hk-eq-bcache-
+DOMAIN-SUFFIX,biliapi.net,🎬 流媒体
+DOMAIN-SUFFIX,bilibili.com,🎬 流媒体
+DOMAIN,upos-hz-mirrorakam.akamaized.net,🎬 流媒体
+DOMAIN-KEYWORD,cn-hk-eq-bcache-,🎬 流媒体
 # > 愛奇藝台灣站
-DOMAIN,cache.video.iqiyi.com
+DOMAIN,cache.video.iqiyi.com,🎬 流媒体
 IP-CIDR,116.211.202.206/32,no-resolve
 IP-CIDR,116.211.202.216/32,no-resolve
