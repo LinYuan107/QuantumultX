@@ -21,3 +21,17 @@ IP-CIDR,144.178.0.0/19,🍎 Apple
 IP-CIDR,192.35.50.0/24,🍎 Apple
 IP-CIDR,198.183.17.0/24,🍎 Apple
 IP-CIDR,205.180.175.0/24,🍎 Apple
+# TestFlight
+DOMAIN,beta.apple.com
+DOMAIN,testflight.apple.com
+# > App Store Connect
+DOMAIN,appstoreconnect.apple.com
+DOMAIN,iosapps-ssl.itunes.apple.com
+DOMAIN,itcmobile.itunes.apple.com
+# App Store
+# Store content such as apps, books, and music
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,itunes-apple.com.akadns.net
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN,ppq.apple.com // Enterprise App validation
