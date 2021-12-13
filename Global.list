@@ -526,7 +526,7 @@ DOMAIN-SUFFIX,vk.com, 🌍 海外服务
 DOMAIN-SUFFIX,vsco.co, 🌍 海外服务
 DOMAIN-SUFFIX,xfinity.com, 🌍 海外服务
 DOMAIN-SUFFIX,zattoo.com, 🌍 海外服务
-user-agent,Roam*
+user-agent,Roam*, 🌍 海外服务
 
 # (The Most Popular Sites)
 # > Apple
