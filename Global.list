@@ -1,664 +1,664 @@
 #海外网站
 # > 自定义网站  
-host-suffix, githubusercontent.com, 🌍 海外服务
-host-suffix, limbopro.com, 🌍 海外服务
-host-suffix, limbopro.xyz, 🌍 海外服务
-host-suffix, app.even.stream, 🌍 海外服务
-host-suffix, zztt14.com, 🌍 海外服务
-host-suffix, 899189.com, 🌍 海外服务
-host-suffix, 119699.com, 🌍 海外服务
-host-suffix, chuniao17.me, 🌍 海外服务
-host-suffix, chuniao15.me, 🌍 海外服务
-host-suffix, anti-ad.net, 🌍 海外服务
-host-suffix, github.com, 🌍 海外服务
-host-suffix, oxygenplaza.net, 🌍 海外服务
+host-suffix, githubusercontent.com
+host-suffix, limbopro.com
+host-suffix, limbopro.xyz
+host-suffix, app.even.stream
+host-suffix, zztt14.com
+host-suffix, 899189.com
+host-suffix, 119699.com
+host-suffix, chuniao17.me
+host-suffix, chuniao15.me
+host-suffix, anti-ad.net
+host-suffix, github.com
+host-suffix, oxygenplaza.net
 
 # > 小狐狸钱包&赛博之龙&辅助网站
-host-suffix, p2epop.com, 🌍 海外服务
-host-suffix, tool.0x0.club, 🌍 海外服务
+host-suffix, p2epop.com
+host-suffix, tool.0x0.club
 host-suffix, metamask.io,🌍 海外服务
-host-suffix, pancakeswap.finance, 🌍 海外服务
-host-suffix, game.binaryx.pro, 🌍 海外服务
-host-suffix, m.binaryx.pro, 🌍 海外服务
-host-suffix, bscscan.com, 🌍 海外服务
-host-suffix, bsc-dataseed.binance.org, 🌍 海外服务
+host-suffix, pancakeswap.finance
+host-suffix, game.binaryx.pro
+host-suffix, m.binaryx.pro
+host-suffix, bscscan.com
+host-suffix, bsc-dataseed.binance.org
 
 # > Google
-DOMAIN-SUFFIX,ampproject.org, 🌍 海外服务
-DOMAIN-SUFFIX,appspot.com, 🌍 海外服务
-DOMAIN-SUFFIX,blogger.com, 🌍 海外服务
-DOMAIN-SUFFIX,getoutline.org, 🌍 海外服务
-DOMAIN-SUFFIX,gvt0.com, 🌍 海外服务
-DOMAIN-SUFFIX,gvt1.com, 🌍 海外服务
-DOMAIN-SUFFIX,gvt3.com, 🌍 海外服务
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com, 🌍 海外服务
-host-keyword,google, 🌍 海外服务
-host-keyword,blogspot, 🌍 海外服务
+DOMAIN-SUFFIX,ampproject.org
+DOMAIN-SUFFIX,appspot.com
+DOMAIN-SUFFIX,blogger.com
+DOMAIN-SUFFIX,getoutline.org
+DOMAIN-SUFFIX,gvt0.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+host-keyword,google
+host-keyword,blogspot
 # > Microsoft
-DOMAIN-SUFFIX,onedrive.live.com, 🌍 海外服务
-DOMAIN-SUFFIX,xboxlive.com, 🌍 海外服务
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,xboxlive.com
 # > Learning
-DOMAIN-SUFFIX,acm.org, 🌍 海外服务
-DOMAIN-SUFFIX,acs.org, 🌍 海外服务
-DOMAIN-SUFFIX,aip.org, 🌍 海外服务
-DOMAIN-SUFFIX,ams.org, 🌍 海外服务
-DOMAIN-SUFFIX,annualreviews.org, 🌍 海外服务
-DOMAIN-SUFFIX,aps.org, 🌍 海外服务
-DOMAIN-SUFFIX,ascelibrary.org, 🌍 海外服务
-DOMAIN-SUFFIX,asm.org, 🌍 海外服务
-DOMAIN-SUFFIX,asme.org, 🌍 海外服务
-DOMAIN-SUFFIX,astm.org, 🌍 海外服务
-DOMAIN-SUFFIX,blackwell-synergy.com, 🌍 海外服务
-DOMAIN-SUFFIX,bmj.com, 🌍 海外服务
-DOMAIN-SUFFIX,cabdirect.org, 🌍 海外服务
-DOMAIN-SUFFIX,cambridge.org, 🌍 海外服务
-DOMAIN-SUFFIX,cas.org, 🌍 海外服务
-DOMAIN-SUFFIX,cell.com, 🌍 海外服务
-DOMAIN-SUFFIX,clarivate.com, 🌍 海外服务
-DOMAIN-SUFFIX,cnki.net, 🌍 海外服务
-DOMAIN-SUFFIX,cqvip.com, 🌍 海外服务
-DOMAIN-SUFFIX,csiro.au, 🌍 海外服务
-DOMAIN-SUFFIX,deepdyve.com, 🌍 海外服务
-DOMAIN-SUFFIX,ebscohost.com, 🌍 海外服务
-DOMAIN-SUFFIX,els-cdn.com, 🌍 海外服务
-DOMAIN-SUFFIX,elsevier.com, 🌍 海外服务
-DOMAIN-SUFFIX,emerald.com, 🌍 海外服务
-DOMAIN-SUFFIX,endnote.com, 🌍 海外服务
-DOMAIN-SUFFIX,engineeringvillage.com, 🌍 海外服务
-DOMAIN-SUFFIX,icevirtuallibrary.com, 🌍 海外服务
-DOMAIN-SUFFIX,ieee.org, 🌍 海外服务
-DOMAIN-SUFFIX,imf.org, 🌍 海外服务
-DOMAIN-SUFFIX,iop.org, 🌍 海外服务
-DOMAIN-SUFFIX,jamanetwork.com, 🌍 海外服务
-DOMAIN-SUFFIX,jbc.org, 🌍 海外服务
-DOMAIN-SUFFIX,jhu.edu, 🌍 海外服务
-DOMAIN-SUFFIX,jstor.org, 🌍 海外服务
-DOMAIN-SUFFIX,karger.com, 🌍 海外服务
-DOMAIN-SUFFIX,libguides.com, 🌍 海外服务
-DOMAIN-SUFFIX,madsrevolution.net, 🌍 海外服务
-DOMAIN-SUFFIX,mdpi.com, 🌍 海外服务
-DOMAIN-SUFFIX,mpg.de, 🌍 海外服务
-DOMAIN-SUFFIX,myilibrary.com, 🌍 海外服务
-DOMAIN-SUFFIX,nature.com, 🌍 海外服务
-DOMAIN-SUFFIX,ncbi.nlm.nih.gov, 🌍 海外服务
-DOMAIN-SUFFIX,oecd-ilibrary.org, 🌍 海外服务
-DOMAIN-SUFFIX,osapublishing.org, 🌍 海外服务
-DOMAIN-SUFFIX,oup.com, 🌍 海外服务
-DOMAIN-SUFFIX,ovid.com, 🌍 海外服务
-DOMAIN-SUFFIX,oxfordartonline.com, 🌍 海外服务
-DOMAIN-SUFFIX,oxfordbibliographies.com, 🌍 海外服务
-DOMAIN-SUFFIX,oxfordmusiconline.com, 🌍 海外服务
-DOMAIN-SUFFIX,pkulaw.com, 🌍 海外服务
-DOMAIN-SUFFIX,pnas.org, 🌍 海外服务
-DOMAIN-SUFFIX,proquest.com, 🌍 海外服务
-DOMAIN-SUFFIX,readcube.com, 🌍 海外服务
-DOMAIN-SUFFIX,researchgate.net, 🌍 海外服务
-DOMAIN-SUFFIX,rsc.org, 🌍 海外服务
-DOMAIN-SUFFIX,sagepub.com, 🌍 海外服务
-DOMAIN-SUFFIX,sci-hub.tw, 🌍 海外服务
-DOMAIN-SUFFIX,sciencedirect.com, 🌍 海外服务
-DOMAIN-SUFFIX,sciencemag.org, 🌍 海外服务
-DOMAIN-SUFFIX,scitation.org, 🌍 海外服务
-DOMAIN-SUFFIX,scopus.com, 🌍 海外服务
-DOMAIN-SUFFIX,siam.org, 🌍 海外服务
-DOMAIN-SUFFIX,spiedigitallibrary.org, 🌍 海外服务
-DOMAIN-SUFFIX,springer.com, 🌍 海外服务
-DOMAIN-SUFFIX,springerlink.com, 🌍 海外服务
-DOMAIN-SUFFIX,tandfonline.com, 🌍 海外服务
-DOMAIN-SUFFIX,un.org, 🌍 海外服务
-DOMAIN-SUFFIX,uni-bielefeld.de, 🌍 海外服务
-DOMAIN-SUFFIX,wanfangdata.com, 🌍 海外服务
-DOMAIN-SUFFIX,webofknowledge.com, 🌍 海外服务
-DOMAIN-SUFFIX,westlaw.com, 🌍 海外服务
-DOMAIN-SUFFIX,westlawchina.com, 🌍 海外服务
-DOMAIN-SUFFIX,wiley.com, 🌍 海外服务
-DOMAIN-SUFFIX,worldbank.org, 🌍 海外服务
-DOMAIN-SUFFIX,worldscientific.com, 🌍 海外服务
+DOMAIN-SUFFIX,acm.org
+DOMAIN-SUFFIX,acs.org
+DOMAIN-SUFFIX,aip.org
+DOMAIN-SUFFIX,ams.org
+DOMAIN-SUFFIX,annualreviews.org
+DOMAIN-SUFFIX,aps.org
+DOMAIN-SUFFIX,ascelibrary.org
+DOMAIN-SUFFIX,asm.org
+DOMAIN-SUFFIX,asme.org
+DOMAIN-SUFFIX,astm.org
+DOMAIN-SUFFIX,blackwell-synergy.com
+DOMAIN-SUFFIX,bmj.com
+DOMAIN-SUFFIX,cabdirect.org
+DOMAIN-SUFFIX,cambridge.org
+DOMAIN-SUFFIX,cas.org
+DOMAIN-SUFFIX,cell.com
+DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,cnki.net
+DOMAIN-SUFFIX,cqvip.com
+DOMAIN-SUFFIX,csiro.au
+DOMAIN-SUFFIX,deepdyve.com
+DOMAIN-SUFFIX,ebscohost.com
+DOMAIN-SUFFIX,els-cdn.com
+DOMAIN-SUFFIX,elsevier.com
+DOMAIN-SUFFIX,emerald.com
+DOMAIN-SUFFIX,endnote.com
+DOMAIN-SUFFIX,engineeringvillage.com
+DOMAIN-SUFFIX,icevirtuallibrary.com
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,imf.org
+DOMAIN-SUFFIX,iop.org
+DOMAIN-SUFFIX,jamanetwork.com
+DOMAIN-SUFFIX,jbc.org
+DOMAIN-SUFFIX,jhu.edu
+DOMAIN-SUFFIX,jstor.org
+DOMAIN-SUFFIX,karger.com
+DOMAIN-SUFFIX,libguides.com
+DOMAIN-SUFFIX,madsrevolution.net
+DOMAIN-SUFFIX,mdpi.com
+DOMAIN-SUFFIX,mpg.de
+DOMAIN-SUFFIX,myilibrary.com
+DOMAIN-SUFFIX,nature.com
+DOMAIN-SUFFIX,ncbi.nlm.nih.gov
+DOMAIN-SUFFIX,oecd-ilibrary.org
+DOMAIN-SUFFIX,osapublishing.org
+DOMAIN-SUFFIX,oup.com
+DOMAIN-SUFFIX,ovid.com
+DOMAIN-SUFFIX,oxfordartonline.com
+DOMAIN-SUFFIX,oxfordbibliographies.com
+DOMAIN-SUFFIX,oxfordmusiconline.com
+DOMAIN-SUFFIX,pkulaw.com
+DOMAIN-SUFFIX,pnas.org
+DOMAIN-SUFFIX,proquest.com
+DOMAIN-SUFFIX,readcube.com
+DOMAIN-SUFFIX,researchgate.net
+DOMAIN-SUFFIX,rsc.org
+DOMAIN-SUFFIX,sagepub.com
+DOMAIN-SUFFIX,sci-hub.tw
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,sciencemag.org
+DOMAIN-SUFFIX,scitation.org
+DOMAIN-SUFFIX,scopus.com
+DOMAIN-SUFFIX,siam.org
+DOMAIN-SUFFIX,spiedigitallibrary.org
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,springerlink.com
+DOMAIN-SUFFIX,tandfonline.com
+DOMAIN-SUFFIX,un.org
+DOMAIN-SUFFIX,uni-bielefeld.de
+DOMAIN-SUFFIX,wanfangdata.com
+DOMAIN-SUFFIX,webofknowledge.com
+DOMAIN-SUFFIX,westlaw.com
+DOMAIN-SUFFIX,westlawchina.com
+DOMAIN-SUFFIX,wiley.com
+DOMAIN-SUFFIX,worldbank.org
+DOMAIN-SUFFIX,worldscientific.com
 # > Facebook
-DOMAIN-SUFFIX,cdninstagram.com, 🌍 海外服务
-DOMAIN-SUFFIX,fb.com, 🌍 海外服务
-DOMAIN-SUFFIX,fb.me, 🌍 海外服务
-DOMAIN-SUFFIX,fbaddins.com, 🌍 海外服务
-DOMAIN-SUFFIX,fbcdn.net, 🌍 海外服务
-DOMAIN-SUFFIX,fbsbx.com, 🌍 海外服务
-DOMAIN-SUFFIX,fbworkmail.com, 🌍 海外服务
-DOMAIN-SUFFIX,instagram.com, 🌍 海外服务
-DOMAIN-SUFFIX,m.me, 🌍 海外服务
-DOMAIN-SUFFIX,messenger.com, 🌍 海外服务
-DOMAIN-SUFFIX,oculus.com, 🌍 海外服务
-DOMAIN-SUFFIX,oculuscdn.com, 🌍 海外服务
-DOMAIN-SUFFIX,rocksdb.org, 🌍 海外服务
-DOMAIN-SUFFIX,whatsapp.com, 🌍 海外服务
-DOMAIN-SUFFIX,whatsapp.net, 🌍 海外服务
-host-keyword,facebook, 🌍 海外服务
-ip-cidr, 3.123.36.126/32, 🌍 海外服务
-ip-cidr, 35.157.215.84/32, 🌍 海外服务
-ip-cidr, 35.157.217.255/32, 🌍 海外服务
-ip-cidr, 52.58.209.134/32, 🌍 海外服务
-ip-cidr, 54.93.124.31/32, 🌍 海外服务
-ip-cidr, 54.162.243.80/32, 🌍 海外服务
-ip-cidr, 54.173.34.141/32, 🌍 海外服务
-ip-cidr, 54.235.23.242/32, 🌍 海外服务
-ip-cidr, 169.45.248.118/32, 🌍 海外服务
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbaddins.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,fbworkmail.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,rocksdb.org
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+host-keyword,facebook
+ip-cidr, 3.123.36.126/32
+ip-cidr, 35.157.215.84/32
+ip-cidr, 35.157.217.255/32
+ip-cidr, 52.58.209.134/32
+ip-cidr, 54.93.124.31/32
+ip-cidr, 54.162.243.80/32
+ip-cidr, 54.173.34.141/32
+ip-cidr, 54.235.23.242/32
+ip-cidr, 169.45.248.118/32
 # > Twitter
-DOMAIN-SUFFIX,pscp.tv, 🌍 海外服务
-DOMAIN-SUFFIX,periscope.tv, 🌍 海外服务
-DOMAIN-SUFFIX,t.co, 🌍 海外服务
-DOMAIN-SUFFIX,twimg.co, 🌍 海外服务
-DOMAIN-SUFFIX,twimg.com, 🌍 海外服务
-DOMAIN-SUFFIX,twitpic.com, 🌍 海外服务
-DOMAIN-SUFFIX,vine.co, 🌍 海外服务
-host-keyword,twitter, 🌍 海外服务
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,vine.co
+host-keyword,twitter
 # > Telegram
-DOMAIN-SUFFIX,t.me, 🌍 海外服务
-DOMAIN-SUFFIX,tdesktop.com, 🌍 海外服务
-DOMAIN-SUFFIX,telegra.ph, 🌍 海外服务
-DOMAIN-SUFFIX,telegram.me, 🌍 海外服务
-DOMAIN-SUFFIX,telegram.org, 🌍 海外服务
-ip-cidr, 91.108.4.0/22, 🌍 海外服务
-ip-cidr, 91.108.8.0/22, 🌍 海外服务
-ip-cidr, 91.108.12.0/22, 🌍 海外服务
-ip-cidr, 91.108.16.0/22, 🌍 海外服务
-ip-cidr, 91.108.56.0/22, 🌍 海外服务
-ip-cidr, 149.154.160.0/20, 🌍 海外服务
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+ip-cidr, 91.108.4.0/22
+ip-cidr, 91.108.8.0/22
+ip-cidr, 91.108.12.0/22
+ip-cidr, 91.108.16.0/22
+ip-cidr, 91.108.56.0/22
+ip-cidr, 149.154.160.0/20
 # > Line
-DOMAIN-SUFFIX,line.me, 🌍 海外服务
-DOMAIN-SUFFIX,line-apps.com, 🌍 海外服务
-DOMAIN-SUFFIX,line-scdn.net, 🌍 海外服务
-DOMAIN-SUFFIX,naver.jp, 🌍 海外服务
-ip-cidr, 103.2.30.0/23, 🌍 海外服务
-ip-cidr, 125.209.208.0/20, 🌍 海外服务
-ip-cidr, 147.92.128.0/17, 🌍 海外服务
-ip-cidr, 203.104.144.0/21, 🌍 海外服务
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,naver.jp
+ip-cidr, 103.2.30.0/23
+ip-cidr, 125.209.208.0/20
+ip-cidr, 147.92.128.0/17
+ip-cidr, 203.104.144.0/21
 # > Other
-DOMAIN-SUFFIX,4shared.com, 🌍 海外服务
-DOMAIN-SUFFIX,520cc.cc, 🌍 海外服务
-DOMAIN-SUFFIX,881903.com, 🌍 海外服务
-DOMAIN-SUFFIX,9cache.com, 🌍 海外服务
-DOMAIN-SUFFIX,9gag.com, 🌍 海外服务
-DOMAIN-SUFFIX,abc.com, 🌍 海外服务
-DOMAIN-SUFFIX,abc.net.au, 🌍 海外服务
-DOMAIN-SUFFIX,abebooks.com, 🌍 海外服务
-DOMAIN-SUFFIX,amazon.co.jp, 🌍 海外服务
-DOMAIN-SUFFIX,apigee.com, 🌍 海外服务
-DOMAIN-SUFFIX,apk-dl.com, 🌍 海外服务
-DOMAIN-SUFFIX,apkfind.com, 🌍 海外服务
-DOMAIN-SUFFIX,apkmirror.com, 🌍 海外服务
-DOMAIN-SUFFIX,apkmonk.com, 🌍 海外服务
-DOMAIN-SUFFIX,apkpure.com, 🌍 海外服务
-DOMAIN-SUFFIX,aptoide.com, 🌍 海外服务
-DOMAIN-SUFFIX,archive.is, 🌍 海外服务
-DOMAIN-SUFFIX,archive.org, 🌍 海外服务
-DOMAIN-SUFFIX,arte.tv, 🌍 海外服务
-DOMAIN-SUFFIX,artstation.com, 🌍 海外服务
-DOMAIN-SUFFIX,arukas.io, 🌍 海外服务
-DOMAIN-SUFFIX,ask.com, 🌍 海外服务
-DOMAIN-SUFFIX,avg.com, 🌍 海外服务
-DOMAIN-SUFFIX,avgle.com, 🌍 海外服务
-DOMAIN-SUFFIX,badoo.com, 🌍 海外服务
-DOMAIN-SUFFIX,bandwagonhost.com, 🌍 海外服务
-DOMAIN-SUFFIX,bbc.com, 🌍 海外服务
-DOMAIN-SUFFIX,behance.net, 🌍 海外服务
-DOMAIN-SUFFIX,bibox.com, 🌍 海外服务
-DOMAIN-SUFFIX,biggo.com.tw, 🌍 海外服务
-DOMAIN-SUFFIX,binance.com, 🌍 海外服务
-DOMAIN-SUFFIX,bitcointalk.org, 🌍 海外服务
-DOMAIN-SUFFIX,bitfinex.com, 🌍 海外服务
-DOMAIN-SUFFIX,bitmex.com, 🌍 海外服务
-DOMAIN-SUFFIX,bit-z.com, 🌍 海外服务
-DOMAIN-SUFFIX,bloglovin.com, 🌍 海外服务
-DOMAIN-SUFFIX,bloomberg.cn, 🌍 海外服务
-DOMAIN-SUFFIX,bloomberg.com, 🌍 海外服务
-DOMAIN-SUFFIX,blubrry.com, 🌍 海外服务
-DOMAIN-SUFFIX,book.com.tw, 🌍 海外服务
-DOMAIN-SUFFIX,booklive.jp, 🌍 海外服务
-DOMAIN-SUFFIX,books.com.tw, 🌍 海外服务
-DOMAIN-SUFFIX,boslife.net, 🌍 海外服务
-DOMAIN-SUFFIX,box.com, 🌍 海外服务
-DOMAIN-SUFFIX,businessinsider.com, 🌍 海外服务
-DOMAIN-SUFFIX,bwh1.net, 🌍 海外服务
-DOMAIN-SUFFIX,castbox.fm, 🌍 海外服务
-DOMAIN-SUFFIX,cbc.ca, 🌍 海外服务
-DOMAIN-SUFFIX,cdw.com, 🌍 海外服务
-DOMAIN-SUFFIX,change.org, 🌍 海外服务
-DOMAIN-SUFFIX,channelnewsasia.com, 🌍 海外服务
-DOMAIN-SUFFIX,ck101.com, 🌍 海外服务
-DOMAIN-SUFFIX,clarionproject.org, 🌍 海外服务
-DOMAIN-SUFFIX,clyp.it, 🌍 海外服务
-DOMAIN-SUFFIX,cna.com.tw, 🌍 海外服务
-DOMAIN-SUFFIX,comparitech.com, 🌍 海外服务
-DOMAIN-SUFFIX,conoha.jp, 🌍 海外服务
-DOMAIN-SUFFIX,crucial.com, 🌍 海外服务
-DOMAIN-SUFFIX,cts.com.tw, 🌍 海外服务
-DOMAIN-SUFFIX,cw.com.tw, 🌍 海外服务
-DOMAIN-SUFFIX,cyberctm.com, 🌍 海外服务
-DOMAIN-SUFFIX,dailymotion.com, 🌍 海外服务
-DOMAIN-SUFFIX,dailyview.tw, 🌍 海外服务
-DOMAIN-SUFFIX,daum.net, 🌍 海外服务
-DOMAIN-SUFFIX,daumcdn.net, 🌍 海外服务
-DOMAIN-SUFFIX,dcard.tw, 🌍 海外服务
-DOMAIN-SUFFIX,deepdiscount.com, 🌍 海外服务
-DOMAIN-SUFFIX,depositphotos.com, 🌍 海外服务
-DOMAIN-SUFFIX,deviantart.com, 🌍 海外服务
-DOMAIN-SUFFIX,disconnect.me, 🌍 海外服务
-DOMAIN-SUFFIX,discordapp.com, 🌍 海外服务
-DOMAIN-SUFFIX,discordapp.net, 🌍 海外服务
-DOMAIN-SUFFIX,disqus.com, 🌍 海外服务
-DOMAIN-SUFFIX,dlercloud.com, 🌍 海外服务
-DOMAIN-SUFFIX,dns2go.com, 🌍 海外服务
-DOMAIN-SUFFIX,dowjones.com, 🌍 海外服务
-DOMAIN-SUFFIX,dropbox.com, 🌍 海外服务
-DOMAIN-SUFFIX,dropboxusercontent.com, 🌍 海外服务
-DOMAIN-SUFFIX,duckduckgo.com, 🌍 海外服务
-DOMAIN-SUFFIX,dw.com, 🌍 海外服务
-DOMAIN-SUFFIX,dynu.com, 🌍 海外服务
-DOMAIN-SUFFIX,earthcam.com, 🌍 海外服务
-DOMAIN-SUFFIX,ebookservice.tw, 🌍 海外服务
-DOMAIN-SUFFIX,economist.com, 🌍 海外服务
-DOMAIN-SUFFIX,edgecastcdn.net, 🌍 海外服务
-DOMAIN-SUFFIX,edu, 🌍 海外服务
-DOMAIN-SUFFIX,elpais.com, 🌍 海外服务
-DOMAIN-SUFFIX,enanyang.my, 🌍 海外服务
-DOMAIN-SUFFIX,encyclopedia.com, 🌍 海外服务
-DOMAIN-SUFFIX,esoir.be, 🌍 海外服务
-DOMAIN-SUFFIX,etherscan.io, 🌍 海外服务
-DOMAIN-SUFFIX,euronews.com, 🌍 海外服务
-DOMAIN-SUFFIX,evozi.com, 🌍 海外服务
-DOMAIN-SUFFIX,feedly.com, 🌍 海外服务
-DOMAIN-SUFFIX,firech.at, 🌍 海外服务
-DOMAIN-SUFFIX,flickr.com, 🌍 海外服务
-DOMAIN-SUFFIX,flitto.com, 🌍 海外服务
-DOMAIN-SUFFIX,foreignpolicy.com, 🌍 海外服务
-DOMAIN-SUFFIX,freebrowser.org, 🌍 海外服务
-DOMAIN-SUFFIX,freewechat.com, 🌍 海外服务
-DOMAIN-SUFFIX,freeweibo.com, 🌍 海外服务
-DOMAIN-SUFFIX,friday.tw, 🌍 海外服务
-DOMAIN-SUFFIX,ftchinese.com, 🌍 海外服务
-DOMAIN-SUFFIX,ftimg.net, 🌍 海外服务
-DOMAIN-SUFFIX,gate.io, 🌍 海外服务
-DOMAIN-SUFFIX,getlantern.org, 🌍 海外服务
-DOMAIN-SUFFIX,getsync.com, 🌍 海外服务
-DOMAIN-SUFFIX,globalvoices.org, 🌍 海外服务
-DOMAIN-SUFFIX,goo.ne.jp, 🌍 海外服务
-DOMAIN-SUFFIX,goodreads.com, 🌍 海外服务
-DOMAIN-SUFFIX,gov, 🌍 海外服务
-DOMAIN-SUFFIX,gov.tw, 🌍 海外服务
-DOMAIN-SUFFIX,greatfire.org, 🌍 海外服务
-DOMAIN-SUFFIX,gumroad.com, 🌍 海外服务
-DOMAIN-SUFFIX,hbg.com, 🌍 海外服务
-DOMAIN-SUFFIX,heroku.com, 🌍 海外服务
-DOMAIN-SUFFIX,hightail.com, 🌍 海外服务
-DOMAIN-SUFFIX,hk01.com, 🌍 海外服务
-DOMAIN-SUFFIX,hkbf.org, 🌍 海外服务
-DOMAIN-SUFFIX,hkbookcity.com, 🌍 海外服务
-DOMAIN-SUFFIX,hkej.com, 🌍 海外服务
-DOMAIN-SUFFIX,hket.com, 🌍 海外服务
-DOMAIN-SUFFIX,hkgolden.com, 🌍 海外服务
-DOMAIN-SUFFIX,hootsuite.com, 🌍 海外服务
-DOMAIN-SUFFIX,hudson.org, 🌍 海外服务
-DOMAIN-SUFFIX,hyread.com.tw, 🌍 海外服务
-DOMAIN-SUFFIX,ibtimes.com, 🌍 海外服务
-DOMAIN-SUFFIX,i-cable.com, 🌍 海外服务
-DOMAIN-SUFFIX,icij.org, 🌍 海外服务
-DOMAIN-SUFFIX,icoco.com, 🌍 海外服务
-DOMAIN-SUFFIX,imgur.com, 🌍 海外服务
-DOMAIN-SUFFIX,initiummall.com, 🌍 海外服务
-DOMAIN-SUFFIX,insecam.org, 🌍 海外服务
-DOMAIN-SUFFIX,ipfs.io, 🌍 海外服务
-DOMAIN-SUFFIX,issuu.com, 🌍 海外服务
-DOMAIN-SUFFIX,istockphoto.com, 🌍 海外服务
-DOMAIN-SUFFIX,japantimes.co.jp, 🌍 海外服务
-DOMAIN-SUFFIX,jiji.com, 🌍 海外服务
-DOMAIN-SUFFIX,jinx.com, 🌍 海外服务
-DOMAIN-SUFFIX,jkforum.net, 🌍 海外服务
-DOMAIN-SUFFIX,joinmastodon.org, 🌍 海外服务
-DOMAIN-SUFFIX,justmysocks.net, 🌍 海外服务
-DOMAIN-SUFFIX,justpaste.it, 🌍 海外服务
-DOMAIN-SUFFIX,kakao.com, 🌍 海外服务
-DOMAIN-SUFFIX,kakaocorp.com, 🌍 海外服务
-DOMAIN-SUFFIX,kik.com, 🌍 海外服务
-DOMAIN-SUFFIX,kobo.com, 🌍 海外服务
-DOMAIN-SUFFIX,kobobooks.com, 🌍 海外服务
-DOMAIN-SUFFIX,kodingen.com, 🌍 海外服务
-DOMAIN-SUFFIX,lemonde.fr, 🌍 海外服务
-DOMAIN-SUFFIX,lepoint.fr, 🌍 海外服务
-DOMAIN-SUFFIX,lihkg.com, 🌍 海外服务
-DOMAIN-SUFFIX,listennotes.com, 🌍 海外服务
-DOMAIN-SUFFIX,livestream.com, 🌍 海外服务
-DOMAIN-SUFFIX,logmein.com, 🌍 海外服务
-DOMAIN-SUFFIX,mail.ru, 🌍 海外服务
-DOMAIN-SUFFIX,mailchimp.com, 🌍 海外服务
-DOMAIN-SUFFIX,marc.info, 🌍 海外服务
-DOMAIN-SUFFIX,matters.news, 🌍 海外服务
-DOMAIN-SUFFIX,maying.co, 🌍 海外服务
-DOMAIN-SUFFIX,medium.com, 🌍 海外服务
-DOMAIN-SUFFIX,mega.nz, 🌍 海外服务
-DOMAIN-SUFFIX,mil, 🌍 海外服务
-DOMAIN-SUFFIX,mingpao.com, 🌍 海外服务
-DOMAIN-SUFFIX,mobile01.com, 🌍 海外服务
-DOMAIN-SUFFIX,myspace.com, 🌍 海外服务
-DOMAIN-SUFFIX,myspacecdn.com, 🌍 海外服务
-DOMAIN-SUFFIX,nanyang.com, 🌍 海外服务
-DOMAIN-SUFFIX,naver.com, 🌍 海外服务
-DOMAIN-SUFFIX,neowin.net, 🌍 海外服务
-DOMAIN-SUFFIX,newstapa.org, 🌍 海外服务
-DOMAIN-SUFFIX,nexitally.com, 🌍 海外服务
-DOMAIN-SUFFIX,nhk.or.jp, 🌍 海外服务
-DOMAIN-SUFFIX,nii.ac.jp, 🌍 海外服务
-DOMAIN-SUFFIX,nikkei.com, 🌍 海外服务
-DOMAIN-SUFFIX,nofile.io, 🌍 海外服务
-DOMAIN-SUFFIX,now.com, 🌍 海外服务
-DOMAIN-SUFFIX,nrk.no, 🌍 海外服务
-DOMAIN-SUFFIX,nyt.com, 🌍 海外服务
-DOMAIN-SUFFIX,nytchina.com, 🌍 海外服务
-DOMAIN-SUFFIX,nytcn.me, 🌍 海外服务
-DOMAIN-SUFFIX,nytco.com, 🌍 海外服务
-DOMAIN-SUFFIX,nytimes.com, 🌍 海外服务
-DOMAIN-SUFFIX,nytimg.com, 🌍 海外服务
-DOMAIN-SUFFIX,nytlog.com, 🌍 海外服务
-DOMAIN-SUFFIX,nytstyle.com, 🌍 海外服务
-DOMAIN-SUFFIX,ok.ru, 🌍 海外服务
-DOMAIN-SUFFIX,okex.com, 🌍 海外服务
-DOMAIN-SUFFIX,on.cc, 🌍 海外服务
-DOMAIN-SUFFIX,orientaldaily.com.my, 🌍 海外服务
-DOMAIN-SUFFIX,overcast.fm, 🌍 海外服务
-DOMAIN-SUFFIX,paltalk.com, 🌍 海外服务
-DOMAIN-SUFFIX,pao-pao.net, 🌍 海外服务
-DOMAIN-SUFFIX,parsevideo.com, 🌍 海外服务
-DOMAIN-SUFFIX,pbxes.com, 🌍 海外服务
-DOMAIN-SUFFIX,pcdvd.com.tw, 🌍 海外服务
-DOMAIN-SUFFIX,pchome.com.tw, 🌍 海外服务
-DOMAIN-SUFFIX,pcloud.com, 🌍 海外服务
-DOMAIN-SUFFIX,picacomic.com, 🌍 海外服务
-DOMAIN-SUFFIX,pinimg.com, 🌍 海外服务
-DOMAIN-SUFFIX,pixiv.net, 🌍 海外服务
-DOMAIN-SUFFIX,player.fm, 🌍 海外服务
-DOMAIN-SUFFIX,plurk.com, 🌍 海外服务
-DOMAIN-SUFFIX,po18.tw, 🌍 海外服务
-DOMAIN-SUFFIX,potato.im, 🌍 海外服务
-DOMAIN-SUFFIX,potatso.com, 🌍 海外服务
-DOMAIN-SUFFIX,prism-break.org, 🌍 海外服务
-DOMAIN-SUFFIX,proxifier.com, 🌍 海外服务
-DOMAIN-SUFFIX,pt.im, 🌍 海外服务
-DOMAIN-SUFFIX,pts.org.tw, 🌍 海外服务
-DOMAIN-SUFFIX,pubu.com.tw, 🌍 海外服务
-DOMAIN-SUFFIX,pubu.tw, 🌍 海外服务
-DOMAIN-SUFFIX,pureapk.com, 🌍 海外服务
-DOMAIN-SUFFIX,quora.com, 🌍 海外服务
-DOMAIN-SUFFIX,quoracdn.net, 🌍 海外服务
-DOMAIN-SUFFIX,rakuten.co.jp, 🌍 海外服务
-DOMAIN-SUFFIX,readingtimes.com.tw, 🌍 海外服务
-DOMAIN-SUFFIX,readmoo.com, 🌍 海外服务
-DOMAIN-SUFFIX,redbubble.com, 🌍 海外服务
-DOMAIN-SUFFIX,reddit.com, 🌍 海外服务
-DOMAIN-SUFFIX,redditmedia.com, 🌍 海外服务
-DOMAIN-SUFFIX,resilio.com, 🌍 海外服务
-DOMAIN-SUFFIX,reuters.com, 🌍 海外服务
-DOMAIN-SUFFIX,reutersmedia.net, 🌍 海外服务
-DOMAIN-SUFFIX,rfi.fr, 🌍 海外服务
-DOMAIN-SUFFIX,rixcloud.com, 🌍 海外服务
-DOMAIN-SUFFIX,roadshow.hk, 🌍 海外服务
-DOMAIN-SUFFIX,scmp.com, 🌍 海外服务
-DOMAIN-SUFFIX,scribd.com, 🌍 海外服务
-DOMAIN-SUFFIX,seatguru.com, 🌍 海外服务
-DOMAIN-SUFFIX,shadowsocks.org, 🌍 海外服务
-DOMAIN-SUFFIX,shopee.tw, 🌍 海外服务
-DOMAIN-SUFFIX,slideshare.net, 🌍 海外服务
-DOMAIN-SUFFIX,softfamous.com, 🌍 海外服务
-DOMAIN-SUFFIX,ssrcloud.org, 🌍 海外服务
-DOMAIN-SUFFIX,startpage.com, 🌍 海外服务
-DOMAIN-SUFFIX,steamcommunity.com, 🌍 海外服务
-DOMAIN-SUFFIX,steemit.com, 🌍 海外服务
-DOMAIN-SUFFIX,steemitwallet.com, 🌍 海外服务
-DOMAIN-SUFFIX,t66y.com, 🌍 海外服务
-DOMAIN-SUFFIX,tapatalk.com, 🌍 海外服务
-DOMAIN-SUFFIX,teco-hk.org, 🌍 海外服务
-DOMAIN-SUFFIX,teco-mo.org, 🌍 海外服务
-DOMAIN-SUFFIX,teddysun.com, 🌍 海外服务
-DOMAIN-SUFFIX,textnow.me, 🌍 海外服务
-DOMAIN-SUFFIX,theguardian.com, 🌍 海外服务
-DOMAIN-SUFFIX,theinitium.com, 🌍 海外服务
-DOMAIN-SUFFIX,thetvdb.com, 🌍 海外服务
-DOMAIN-SUFFIX,tineye.com, 🌍 海外服务
-DOMAIN-SUFFIX,torproject.org, 🌍 海外服务
-DOMAIN-SUFFIX,tumblr.com, 🌍 海外服务
-DOMAIN-SUFFIX,turbobit.net, 🌍 海外服务
-DOMAIN-SUFFIX,tutanota.com, 🌍 海外服务
-DOMAIN-SUFFIX,tvboxnow.com, 🌍 海外服务
-DOMAIN-SUFFIX,udn.com, 🌍 海外服务
-DOMAIN-SUFFIX,unseen.is, 🌍 海外服务
-DOMAIN-SUFFIX,upmedia.mg, 🌍 海外服务
-DOMAIN-SUFFIX,uptodown.com, 🌍 海外服务
-DOMAIN-SUFFIX,urbandictionary.com, 🌍 海外服务
-DOMAIN-SUFFIX,ustream.tv, 🌍 海外服务
-DOMAIN-SUFFIX,uwants.com, 🌍 海外服务
-DOMAIN-SUFFIX,v2ray.com, 🌍 海外服务
-DOMAIN-SUFFIX,viber.com, 🌍 海外服务
-DOMAIN-SUFFIX,videopress.com, 🌍 海外服务
-DOMAIN-SUFFIX,vimeo.com, 🌍 海外服务
-DOMAIN-SUFFIX,voachinese.com, 🌍 海外服务
-DOMAIN-SUFFIX,voanews.com, 🌍 海外服务
-DOMAIN-SUFFIX,voxer.com, 🌍 海外服务
-DOMAIN-SUFFIX,vzw.com, 🌍 海外服务
-DOMAIN-SUFFIX,w3schools.com, 🌍 海外服务
-DOMAIN-SUFFIX,washingtonpost.com, 🌍 海外服务
-DOMAIN-SUFFIX,wattpad.com, 🌍 海外服务
-DOMAIN-SUFFIX,whoer.net, 🌍 海外服务
-DOMAIN-SUFFIX,wikimapia.org, 🌍 海外服务
-DOMAIN-SUFFIX,wikipedia.org, 🌍 海外服务
-DOMAIN-SUFFIX,wikiquote.org, 🌍 海外服务
-DOMAIN-SUFFIX,wikiwand.com, 🌍 海外服务
-DOMAIN-SUFFIX,winudf.com, 🌍 海外服务
-DOMAIN-SUFFIX,wire.com, 🌍 海外服务
-DOMAIN-SUFFIX,wordpress.com, 🌍 海外服务
-DOMAIN-SUFFIX,workflow.is, 🌍 海外服务
-DOMAIN-SUFFIX,worldcat.org, 🌍 海外服务
-DOMAIN-SUFFIX,wsj.com, 🌍 海外服务
-DOMAIN-SUFFIX,wsj.net, 🌍 海外服务
-DOMAIN-SUFFIX,xhamster.com, 🌍 海外服务
-DOMAIN-SUFFIX,xn--90wwvt03e.com, 🌍 海外服务
-DOMAIN-SUFFIX,xn--i2ru8q2qg.com, 🌍 海外服务
-DOMAIN-SUFFIX,xnxx.com, 🌍 海外服务
-DOMAIN-SUFFIX,xvideos.com, 🌍 海外服务
-DOMAIN-SUFFIX,yahoo.com, 🌍 海外服务
-DOMAIN-SUFFIX,yandex.ru, 🌍 海外服务
-DOMAIN-SUFFIX,ycombinator.com, 🌍 海外服务
-DOMAIN-SUFFIX,yesasia.com, 🌍 海外服务
-DOMAIN-SUFFIX,yes-news.com, 🌍 海外服务
-DOMAIN-SUFFIX,yomiuri.co.jp, 🌍 海外服务
-DOMAIN-SUFFIX,you-get.org, 🌍 海外服务
-DOMAIN-SUFFIX,zaobao.com, 🌍 海外服务
-DOMAIN-SUFFIX,zb.com, 🌍 海外服务
-DOMAIN-SUFFIX,zello.com, 🌍 海外服务
-DOMAIN-SUFFIX,zeronet.io, 🌍 海外服务
-DOMAIN-SUFFIX,zoom.us, 🌍 海外服务
-host-keyword,github, 🌍 海外服务
-host-keyword,jav, 🌍 海外服务
-host-keyword,pinterest, 🌍 海外服务
-host-keyword,porn, 🌍 海外服务
-host-keyword,wikileaks, 🌍 海外服务
+DOMAIN-SUFFIX,4shared.com
+DOMAIN-SUFFIX,520cc.cc
+DOMAIN-SUFFIX,881903.com
+DOMAIN-SUFFIX,9cache.com
+DOMAIN-SUFFIX,9gag.com
+DOMAIN-SUFFIX,abc.com
+DOMAIN-SUFFIX,abc.net.au
+DOMAIN-SUFFIX,abebooks.com
+DOMAIN-SUFFIX,amazon.co.jp
+DOMAIN-SUFFIX,apigee.com
+DOMAIN-SUFFIX,apk-dl.com
+DOMAIN-SUFFIX,apkfind.com
+DOMAIN-SUFFIX,apkmirror.com
+DOMAIN-SUFFIX,apkmonk.com
+DOMAIN-SUFFIX,apkpure.com
+DOMAIN-SUFFIX,aptoide.com
+DOMAIN-SUFFIX,archive.is
+DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,arte.tv
+DOMAIN-SUFFIX,artstation.com
+DOMAIN-SUFFIX,arukas.io
+DOMAIN-SUFFIX,ask.com
+DOMAIN-SUFFIX,avg.com
+DOMAIN-SUFFIX,avgle.com
+DOMAIN-SUFFIX,badoo.com
+DOMAIN-SUFFIX,bandwagonhost.com
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,behance.net
+DOMAIN-SUFFIX,bibox.com
+DOMAIN-SUFFIX,biggo.com.tw
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,bitcointalk.org
+DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,bitmex.com
+DOMAIN-SUFFIX,bit-z.com
+DOMAIN-SUFFIX,bloglovin.com
+DOMAIN-SUFFIX,bloomberg.cn
+DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,blubrry.com
+DOMAIN-SUFFIX,book.com.tw
+DOMAIN-SUFFIX,booklive.jp
+DOMAIN-SUFFIX,books.com.tw
+DOMAIN-SUFFIX,boslife.net
+DOMAIN-SUFFIX,box.com
+DOMAIN-SUFFIX,businessinsider.com
+DOMAIN-SUFFIX,bwh1.net
+DOMAIN-SUFFIX,castbox.fm
+DOMAIN-SUFFIX,cbc.ca
+DOMAIN-SUFFIX,cdw.com
+DOMAIN-SUFFIX,change.org
+DOMAIN-SUFFIX,channelnewsasia.com
+DOMAIN-SUFFIX,ck101.com
+DOMAIN-SUFFIX,clarionproject.org
+DOMAIN-SUFFIX,clyp.it
+DOMAIN-SUFFIX,cna.com.tw
+DOMAIN-SUFFIX,comparitech.com
+DOMAIN-SUFFIX,conoha.jp
+DOMAIN-SUFFIX,crucial.com
+DOMAIN-SUFFIX,cts.com.tw
+DOMAIN-SUFFIX,cw.com.tw
+DOMAIN-SUFFIX,cyberctm.com
+DOMAIN-SUFFIX,dailymotion.com
+DOMAIN-SUFFIX,dailyview.tw
+DOMAIN-SUFFIX,daum.net
+DOMAIN-SUFFIX,daumcdn.net
+DOMAIN-SUFFIX,dcard.tw
+DOMAIN-SUFFIX,deepdiscount.com
+DOMAIN-SUFFIX,depositphotos.com
+DOMAIN-SUFFIX,deviantart.com
+DOMAIN-SUFFIX,disconnect.me
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,disqus.com
+DOMAIN-SUFFIX,dlercloud.com
+DOMAIN-SUFFIX,dns2go.com
+DOMAIN-SUFFIX,dowjones.com
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropboxusercontent.com
+DOMAIN-SUFFIX,duckduckgo.com
+DOMAIN-SUFFIX,dw.com
+DOMAIN-SUFFIX,dynu.com
+DOMAIN-SUFFIX,earthcam.com
+DOMAIN-SUFFIX,ebookservice.tw
+DOMAIN-SUFFIX,economist.com
+DOMAIN-SUFFIX,edgecastcdn.net
+DOMAIN-SUFFIX,edu
+DOMAIN-SUFFIX,elpais.com
+DOMAIN-SUFFIX,enanyang.my
+DOMAIN-SUFFIX,encyclopedia.com
+DOMAIN-SUFFIX,esoir.be
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,euronews.com
+DOMAIN-SUFFIX,evozi.com
+DOMAIN-SUFFIX,feedly.com
+DOMAIN-SUFFIX,firech.at
+DOMAIN-SUFFIX,flickr.com
+DOMAIN-SUFFIX,flitto.com
+DOMAIN-SUFFIX,foreignpolicy.com
+DOMAIN-SUFFIX,freebrowser.org
+DOMAIN-SUFFIX,freewechat.com
+DOMAIN-SUFFIX,freeweibo.com
+DOMAIN-SUFFIX,friday.tw
+DOMAIN-SUFFIX,ftchinese.com
+DOMAIN-SUFFIX,ftimg.net
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,getlantern.org
+DOMAIN-SUFFIX,getsync.com
+DOMAIN-SUFFIX,globalvoices.org
+DOMAIN-SUFFIX,goo.ne.jp
+DOMAIN-SUFFIX,goodreads.com
+DOMAIN-SUFFIX,gov
+DOMAIN-SUFFIX,gov.tw
+DOMAIN-SUFFIX,greatfire.org
+DOMAIN-SUFFIX,gumroad.com
+DOMAIN-SUFFIX,hbg.com
+DOMAIN-SUFFIX,heroku.com
+DOMAIN-SUFFIX,hightail.com
+DOMAIN-SUFFIX,hk01.com
+DOMAIN-SUFFIX,hkbf.org
+DOMAIN-SUFFIX,hkbookcity.com
+DOMAIN-SUFFIX,hkej.com
+DOMAIN-SUFFIX,hket.com
+DOMAIN-SUFFIX,hkgolden.com
+DOMAIN-SUFFIX,hootsuite.com
+DOMAIN-SUFFIX,hudson.org
+DOMAIN-SUFFIX,hyread.com.tw
+DOMAIN-SUFFIX,ibtimes.com
+DOMAIN-SUFFIX,i-cable.com
+DOMAIN-SUFFIX,icij.org
+DOMAIN-SUFFIX,icoco.com
+DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,initiummall.com
+DOMAIN-SUFFIX,insecam.org
+DOMAIN-SUFFIX,ipfs.io
+DOMAIN-SUFFIX,issuu.com
+DOMAIN-SUFFIX,istockphoto.com
+DOMAIN-SUFFIX,japantimes.co.jp
+DOMAIN-SUFFIX,jiji.com
+DOMAIN-SUFFIX,jinx.com
+DOMAIN-SUFFIX,jkforum.net
+DOMAIN-SUFFIX,joinmastodon.org
+DOMAIN-SUFFIX,justmysocks.net
+DOMAIN-SUFFIX,justpaste.it
+DOMAIN-SUFFIX,kakao.com
+DOMAIN-SUFFIX,kakaocorp.com
+DOMAIN-SUFFIX,kik.com
+DOMAIN-SUFFIX,kobo.com
+DOMAIN-SUFFIX,kobobooks.com
+DOMAIN-SUFFIX,kodingen.com
+DOMAIN-SUFFIX,lemonde.fr
+DOMAIN-SUFFIX,lepoint.fr
+DOMAIN-SUFFIX,lihkg.com
+DOMAIN-SUFFIX,listennotes.com
+DOMAIN-SUFFIX,livestream.com
+DOMAIN-SUFFIX,logmein.com
+DOMAIN-SUFFIX,mail.ru
+DOMAIN-SUFFIX,mailchimp.com
+DOMAIN-SUFFIX,marc.info
+DOMAIN-SUFFIX,matters.news
+DOMAIN-SUFFIX,maying.co
+DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,mega.nz
+DOMAIN-SUFFIX,mil
+DOMAIN-SUFFIX,mingpao.com
+DOMAIN-SUFFIX,mobile01.com
+DOMAIN-SUFFIX,myspace.com
+DOMAIN-SUFFIX,myspacecdn.com
+DOMAIN-SUFFIX,nanyang.com
+DOMAIN-SUFFIX,naver.com
+DOMAIN-SUFFIX,neowin.net
+DOMAIN-SUFFIX,newstapa.org
+DOMAIN-SUFFIX,nexitally.com
+DOMAIN-SUFFIX,nhk.or.jp
+DOMAIN-SUFFIX,nii.ac.jp
+DOMAIN-SUFFIX,nikkei.com
+DOMAIN-SUFFIX,nofile.io
+DOMAIN-SUFFIX,now.com
+DOMAIN-SUFFIX,nrk.no
+DOMAIN-SUFFIX,nyt.com
+DOMAIN-SUFFIX,nytchina.com
+DOMAIN-SUFFIX,nytcn.me
+DOMAIN-SUFFIX,nytco.com
+DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,nytimg.com
+DOMAIN-SUFFIX,nytlog.com
+DOMAIN-SUFFIX,nytstyle.com
+DOMAIN-SUFFIX,ok.ru
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,on.cc
+DOMAIN-SUFFIX,orientaldaily.com.my
+DOMAIN-SUFFIX,overcast.fm
+DOMAIN-SUFFIX,paltalk.com
+DOMAIN-SUFFIX,pao-pao.net
+DOMAIN-SUFFIX,parsevideo.com
+DOMAIN-SUFFIX,pbxes.com
+DOMAIN-SUFFIX,pcdvd.com.tw
+DOMAIN-SUFFIX,pchome.com.tw
+DOMAIN-SUFFIX,pcloud.com
+DOMAIN-SUFFIX,picacomic.com
+DOMAIN-SUFFIX,pinimg.com
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,player.fm
+DOMAIN-SUFFIX,plurk.com
+DOMAIN-SUFFIX,po18.tw
+DOMAIN-SUFFIX,potato.im
+DOMAIN-SUFFIX,potatso.com
+DOMAIN-SUFFIX,prism-break.org
+DOMAIN-SUFFIX,proxifier.com
+DOMAIN-SUFFIX,pt.im
+DOMAIN-SUFFIX,pts.org.tw
+DOMAIN-SUFFIX,pubu.com.tw
+DOMAIN-SUFFIX,pubu.tw
+DOMAIN-SUFFIX,pureapk.com
+DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,quoracdn.net
+DOMAIN-SUFFIX,rakuten.co.jp
+DOMAIN-SUFFIX,readingtimes.com.tw
+DOMAIN-SUFFIX,readmoo.com
+DOMAIN-SUFFIX,redbubble.com
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,resilio.com
+DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,reutersmedia.net
+DOMAIN-SUFFIX,rfi.fr
+DOMAIN-SUFFIX,rixcloud.com
+DOMAIN-SUFFIX,roadshow.hk
+DOMAIN-SUFFIX,scmp.com
+DOMAIN-SUFFIX,scribd.com
+DOMAIN-SUFFIX,seatguru.com
+DOMAIN-SUFFIX,shadowsocks.org
+DOMAIN-SUFFIX,shopee.tw
+DOMAIN-SUFFIX,slideshare.net
+DOMAIN-SUFFIX,softfamous.com
+DOMAIN-SUFFIX,ssrcloud.org
+DOMAIN-SUFFIX,startpage.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steemit.com
+DOMAIN-SUFFIX,steemitwallet.com
+DOMAIN-SUFFIX,t66y.com
+DOMAIN-SUFFIX,tapatalk.com
+DOMAIN-SUFFIX,teco-hk.org
+DOMAIN-SUFFIX,teco-mo.org
+DOMAIN-SUFFIX,teddysun.com
+DOMAIN-SUFFIX,textnow.me
+DOMAIN-SUFFIX,theguardian.com
+DOMAIN-SUFFIX,theinitium.com
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,tineye.com
+DOMAIN-SUFFIX,torproject.org
+DOMAIN-SUFFIX,tumblr.com
+DOMAIN-SUFFIX,turbobit.net
+DOMAIN-SUFFIX,tutanota.com
+DOMAIN-SUFFIX,tvboxnow.com
+DOMAIN-SUFFIX,udn.com
+DOMAIN-SUFFIX,unseen.is
+DOMAIN-SUFFIX,upmedia.mg
+DOMAIN-SUFFIX,uptodown.com
+DOMAIN-SUFFIX,urbandictionary.com
+DOMAIN-SUFFIX,ustream.tv
+DOMAIN-SUFFIX,uwants.com
+DOMAIN-SUFFIX,v2ray.com
+DOMAIN-SUFFIX,viber.com
+DOMAIN-SUFFIX,videopress.com
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,voachinese.com
+DOMAIN-SUFFIX,voanews.com
+DOMAIN-SUFFIX,voxer.com
+DOMAIN-SUFFIX,vzw.com
+DOMAIN-SUFFIX,w3schools.com
+DOMAIN-SUFFIX,washingtonpost.com
+DOMAIN-SUFFIX,wattpad.com
+DOMAIN-SUFFIX,whoer.net
+DOMAIN-SUFFIX,wikimapia.org
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikiquote.org
+DOMAIN-SUFFIX,wikiwand.com
+DOMAIN-SUFFIX,winudf.com
+DOMAIN-SUFFIX,wire.com
+DOMAIN-SUFFIX,wordpress.com
+DOMAIN-SUFFIX,workflow.is
+DOMAIN-SUFFIX,worldcat.org
+DOMAIN-SUFFIX,wsj.com
+DOMAIN-SUFFIX,wsj.net
+DOMAIN-SUFFIX,xhamster.com
+DOMAIN-SUFFIX,xn--90wwvt03e.com
+DOMAIN-SUFFIX,xn--i2ru8q2qg.com
+DOMAIN-SUFFIX,xnxx.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,yandex.ru
+DOMAIN-SUFFIX,ycombinator.com
+DOMAIN-SUFFIX,yesasia.com
+DOMAIN-SUFFIX,yes-news.com
+DOMAIN-SUFFIX,yomiuri.co.jp
+DOMAIN-SUFFIX,you-get.org
+DOMAIN-SUFFIX,zaobao.com
+DOMAIN-SUFFIX,zb.com
+DOMAIN-SUFFIX,zello.com
+DOMAIN-SUFFIX,zeronet.io
+DOMAIN-SUFFIX,zoom.us
+host-keyword,github
+host-keyword,jav
+host-keyword,pinterest
+host-keyword,porn
+host-keyword,wikileaks
 
 # (Region-Restricted Access Denied)
-DOMAIN-SUFFIX,apartmentratings.com, 🌍 海外服务
-DOMAIN-SUFFIX,apartments.com, 🌍 海外服务
-DOMAIN-SUFFIX,bankmobilevibe.com, 🌍 海外服务
-DOMAIN-SUFFIX,bing.com, 🌍 海外服务
-DOMAIN-SUFFIX,booktopia.com.au, 🌍 海外服务
-DOMAIN-SUFFIX,cccat.io, 🌍 海外服务
-DOMAIN-SUFFIX,centauro.com.br, 🌍 海外服务
-DOMAIN-SUFFIX,clearsurance.com, 🌍 海外服务
-DOMAIN-SUFFIX,costco.com, 🌍 海外服务
-DOMAIN-SUFFIX,crackle.com, 🌍 海外服务
-DOMAIN-SUFFIX,depositphotos.cn, 🌍 海外服务
-DOMAIN-SUFFIX,dish.com, 🌍 海外服务
-DOMAIN-SUFFIX,dmm.co.jp, 🌍 海外服务
-DOMAIN-SUFFIX,dmm.com, 🌍 海外服务
-DOMAIN-SUFFIX,dnvod.tv, 🌍 海外服务
-DOMAIN-SUFFIX,esurance.com, 🌍 海外服务
-DOMAIN-SUFFIX,extmatrix.com, 🌍 海外服务
-DOMAIN-SUFFIX,fastpic.ru, 🌍 海外服务
-DOMAIN-SUFFIX,flipboard.com, 🌍 海外服务
-DOMAIN-SUFFIX,fnac.be, 🌍 海外服务
-DOMAIN-SUFFIX,fnac.com, 🌍 海外服务
-DOMAIN-SUFFIX,funkyimg.com, 🌍 海外服务
-DOMAIN-SUFFIX,fxnetworks.com, 🌍 海外服务
-DOMAIN-SUFFIX,gettyimages.com, 🌍 海外服务
-DOMAIN-SUFFIX,go.com, 🌍 海外服务
-DOMAIN-SUFFIX,here.com, 🌍 海外服务
-DOMAIN-SUFFIX,jcpenney.com, 🌍 海外服务
-DOMAIN-SUFFIX,jiehua.tv, 🌍 海外服务
-DOMAIN-SUFFIX,mailfence.com, 🌍 海外服务
-DOMAIN-SUFFIX,nationwide.com, 🌍 海外服务
-DOMAIN-SUFFIX,nbc.com, 🌍 海外服务
-DOMAIN-SUFFIX,nexon.com, 🌍 海外服务
-DOMAIN-SUFFIX,nordstrom.com, 🌍 海外服务
-DOMAIN-SUFFIX,nordstromimage.com, 🌍 海外服务
-DOMAIN-SUFFIX,nordstromrack.com, 🌍 海外服务
-DOMAIN-SUFFIX,superpages.com, 🌍 海外服务
-DOMAIN-SUFFIX,target.com, 🌍 海外服务
-DOMAIN-SUFFIX,thinkgeek.com, 🌍 海外服务
-DOMAIN-SUFFIX,tracfone.com, 🌍 海外服务
-DOMAIN-SUFFIX,unity3d.com, 🌍 海外服务
-DOMAIN-SUFFIX,uploader.jp, 🌍 海外服务
-DOMAIN-SUFFIX,vevo.com, 🌍 海外服务
-DOMAIN-SUFFIX,viu.tv, 🌍 海外服务
-DOMAIN-SUFFIX,vk.com, 🌍 海外服务
-DOMAIN-SUFFIX,vsco.co, 🌍 海外服务
-DOMAIN-SUFFIX,xfinity.com, 🌍 海外服务
-DOMAIN-SUFFIX,zattoo.com, 🌍 海外服务
-user-agent,Roam*, 🌍 海外服务
+DOMAIN-SUFFIX,apartmentratings.com
+DOMAIN-SUFFIX,apartments.com
+DOMAIN-SUFFIX,bankmobilevibe.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,booktopia.com.au
+DOMAIN-SUFFIX,cccat.io
+DOMAIN-SUFFIX,centauro.com.br
+DOMAIN-SUFFIX,clearsurance.com
+DOMAIN-SUFFIX,costco.com
+DOMAIN-SUFFIX,crackle.com
+DOMAIN-SUFFIX,depositphotos.cn
+DOMAIN-SUFFIX,dish.com
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,dnvod.tv
+DOMAIN-SUFFIX,esurance.com
+DOMAIN-SUFFIX,extmatrix.com
+DOMAIN-SUFFIX,fastpic.ru
+DOMAIN-SUFFIX,flipboard.com
+DOMAIN-SUFFIX,fnac.be
+DOMAIN-SUFFIX,fnac.com
+DOMAIN-SUFFIX,funkyimg.com
+DOMAIN-SUFFIX,fxnetworks.com
+DOMAIN-SUFFIX,gettyimages.com
+DOMAIN-SUFFIX,go.com
+DOMAIN-SUFFIX,here.com
+DOMAIN-SUFFIX,jcpenney.com
+DOMAIN-SUFFIX,jiehua.tv
+DOMAIN-SUFFIX,mailfence.com
+DOMAIN-SUFFIX,nationwide.com
+DOMAIN-SUFFIX,nbc.com
+DOMAIN-SUFFIX,nexon.com
+DOMAIN-SUFFIX,nordstrom.com
+DOMAIN-SUFFIX,nordstromimage.com
+DOMAIN-SUFFIX,nordstromrack.com
+DOMAIN-SUFFIX,superpages.com
+DOMAIN-SUFFIX,target.com
+DOMAIN-SUFFIX,thinkgeek.com
+DOMAIN-SUFFIX,tracfone.com
+DOMAIN-SUFFIX,unity3d.com
+DOMAIN-SUFFIX,uploader.jp
+DOMAIN-SUFFIX,vevo.com
+DOMAIN-SUFFIX,viu.tv
+DOMAIN-SUFFIX,vk.com
+DOMAIN-SUFFIX,vsco.co
+DOMAIN-SUFFIX,xfinity.com
+DOMAIN-SUFFIX,zattoo.com
+user-agent,Roam*
 
 # (The Most Popular Sites)
 # > Apple
 # >> TestFlight
-host,testflight.apple.com, 🌍 海外服务
+host,testflight.apple.com
 # >> Apple URL Shortener
-DOMAIN-SUFFIX,appsto.re, 🌍 海外服务
+DOMAIN-SUFFIX,appsto.re
 # >> iBooks Store download
-host,books.itunes.apple.com, 🌍 海外服务
+host,books.itunes.apple.com
 # >> iTunes Store Moveis Trailers
-host,hls.itunes.apple.com, 🌍 海外服务
+host,hls.itunes.apple.com
 # >> Spotlight
-host,api-glb-sea.smoot.apple.com, 🌍 海外服务
+host,api-glb-sea.smoot.apple.com
 # >> Dictionary
-host,lookup-api.apple.com, 🌍 海外服务
+host,lookup-api.apple.com
 # > Google
-DOMAIN-SUFFIX,abc.xyz, 🌍 海外服务
-DOMAIN-SUFFIX,android.com, 🌍 海外服务
-DOMAIN-SUFFIX,androidify.com, 🌍 海外服务
-DOMAIN-SUFFIX,dialogflow.com, 🌍 海外服务
-DOMAIN-SUFFIX,autodraw.com, 🌍 海外服务
-DOMAIN-SUFFIX,capitalg.com, 🌍 海外服务
-DOMAIN-SUFFIX,certificate-transparency.org, 🌍 海外服务
-DOMAIN-SUFFIX,chrome.com, 🌍 海外服务
-DOMAIN-SUFFIX,chromeexperiments.com, 🌍 海外服务
-DOMAIN-SUFFIX,chromestatus.com, 🌍 海外服务
-DOMAIN-SUFFIX,chromium.org, 🌍 海外服务
-DOMAIN-SUFFIX,creativelab5.com, 🌍 海外服务
-DOMAIN-SUFFIX,debug.com, 🌍 海外服务
-DOMAIN-SUFFIX,deepmind.com, 🌍 海外服务
-DOMAIN-SUFFIX,firebaseio.com, 🌍 海外服务
-DOMAIN-SUFFIX,getmdl.io, 🌍 海外服务
-DOMAIN-SUFFIX,ggpht.com, 🌍 海外服务
-DOMAIN-SUFFIX,gmail.com, 🌍 海外服务
-DOMAIN-SUFFIX,gmodules.com, 🌍 海外服务
-DOMAIN-SUFFIX,godoc.org, 🌍 海外服务
-DOMAIN-SUFFIX,golang.org, 🌍 海外服务
-DOMAIN-SUFFIX,gstatic.com, 🌍 海外服务
-DOMAIN-SUFFIX,gv.com, 🌍 海外服务
-DOMAIN-SUFFIX,gwtproject.org, 🌍 海外服务
-DOMAIN-SUFFIX,itasoftware.com, 🌍 海外服务
-DOMAIN-SUFFIX,madewithcode.com, 🌍 海外服务
-DOMAIN-SUFFIX,material.io, 🌍 海外服务
-DOMAIN-SUFFIX,polymer-project.org, 🌍 海外服务
-DOMAIN-SUFFIX,admin.recaptcha.net, 🌍 海外服务
-DOMAIN-SUFFIX,recaptcha.net, 🌍 海外服务
-DOMAIN-SUFFIX,shattered.io, 🌍 海外服务
-DOMAIN-SUFFIX,synergyse.com, 🌍 海外服务
-DOMAIN-SUFFIX,tensorflow.org, 🌍 海外服务
-DOMAIN-SUFFIX,tfhub.dev, 🌍 海外服务
-DOMAIN-SUFFIX,tiltbrush.com, 🌍 海外服务
-DOMAIN-SUFFIX,waveprotocol.org, 🌍 海外服务
-DOMAIN-SUFFIX,waymo.com, 🌍 海外服务
-DOMAIN-SUFFIX,webmproject.org, 🌍 海外服务
-DOMAIN-SUFFIX,webrtc.org, 🌍 海外服务
-DOMAIN-SUFFIX,whatbrowser.org, 🌍 海外服务
-DOMAIN-SUFFIX,widevine.com, 🌍 海外服务
-DOMAIN-SUFFIX,x.company, 🌍 海外服务
-DOMAIN-SUFFIX,youtu.be, 🌍 海外服务
-DOMAIN-SUFFIX,yt.be, 🌍 海外服务
-DOMAIN-SUFFIX,ytimg.com, 🌍 海外服务
+DOMAIN-SUFFIX,abc.xyz
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,androidify.com
+DOMAIN-SUFFIX,dialogflow.com
+DOMAIN-SUFFIX,autodraw.com
+DOMAIN-SUFFIX,capitalg.com
+DOMAIN-SUFFIX,certificate-transparency.org
+DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,chromeexperiments.com
+DOMAIN-SUFFIX,chromestatus.com
+DOMAIN-SUFFIX,chromium.org
+DOMAIN-SUFFIX,creativelab5.com
+DOMAIN-SUFFIX,debug.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,getmdl.io
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,gmodules.com
+DOMAIN-SUFFIX,godoc.org
+DOMAIN-SUFFIX,golang.org
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gv.com
+DOMAIN-SUFFIX,gwtproject.org
+DOMAIN-SUFFIX,itasoftware.com
+DOMAIN-SUFFIX,madewithcode.com
+DOMAIN-SUFFIX,material.io
+DOMAIN-SUFFIX,polymer-project.org
+DOMAIN-SUFFIX,admin.recaptcha.net
+DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,shattered.io
+DOMAIN-SUFFIX,synergyse.com
+DOMAIN-SUFFIX,tensorflow.org
+DOMAIN-SUFFIX,tfhub.dev
+DOMAIN-SUFFIX,tiltbrush.com
+DOMAIN-SUFFIX,waveprotocol.org
+DOMAIN-SUFFIX,waymo.com
+DOMAIN-SUFFIX,webmproject.org
+DOMAIN-SUFFIX,webrtc.org
+DOMAIN-SUFFIX,whatbrowser.org
+DOMAIN-SUFFIX,widevine.com
+DOMAIN-SUFFIX,x.company
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,ytimg.com
 # > Microsoft
 # >> Microsoft OneDrive
-DOMAIN-SUFFIX,1drv.com, 🌍 海外服务
-DOMAIN-SUFFIX,1drv.ms, 🌍 海外服务
-DOMAIN-SUFFIX,blob.core.windows.net, 🌍 海外服务
-DOMAIN-SUFFIX,livefilestore.com, 🌍 海外服务
-DOMAIN-SUFFIX,onedrive.com, 🌍 海外服务
-DOMAIN-SUFFIX,storage.live.com, 🌍 海外服务
-DOMAIN-SUFFIX,storage.msn.com, 🌍 海外服务
-host,oneclient.sfx.ms, 🌍 海外服务
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,1drv.ms
+DOMAIN-SUFFIX,blob.core.windows.net
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,storage.msn.com
+host,oneclient.sfx.ms
 # > Other
-DOMAIN-SUFFIX,0rz.tw, 🌍 海外服务
-DOMAIN-SUFFIX,4bluestones.biz, 🌍 海外服务
-DOMAIN-SUFFIX,9bis.net, 🌍 海外服务
-DOMAIN-SUFFIX,allconnected.co, 🌍 海外服务
-DOMAIN-SUFFIX,aol.com, 🌍 海外服务
-DOMAIN-SUFFIX,bcc.com.tw, 🌍 海外服务
-DOMAIN-SUFFIX,bit.ly, 🌍 海外服务
-DOMAIN-SUFFIX,bitshare.com, 🌍 海外服务
-DOMAIN-SUFFIX,blog.jp, 🌍 海外服务
-DOMAIN-SUFFIX,blogimg.jp, 🌍 海外服务
-DOMAIN-SUFFIX,blogtd.org, 🌍 海外服务
-DOMAIN-SUFFIX,broadcast.co.nz, 🌍 海外服务
-DOMAIN-SUFFIX,camfrog.com, 🌍 海外服务
-DOMAIN-SUFFIX,cfos.de, 🌍 海外服务
-DOMAIN-SUFFIX,citypopulation.de, 🌍 海外服务
-DOMAIN-SUFFIX,cloudfront.net, 🌍 海外服务
-DOMAIN-SUFFIX,ctitv.com.tw, 🌍 海外服务
-DOMAIN-SUFFIX,cuhk.edu.hk, 🌍 海外服务
-DOMAIN-SUFFIX,cusu.hk, 🌍 海外服务
-DOMAIN-SUFFIX,discord.gg, 🌍 海外服务
-DOMAIN-SUFFIX,discuss.com.hk, 🌍 海外服务
-DOMAIN-SUFFIX,dropboxapi.com, 🌍 海外服务
-DOMAIN-SUFFIX,duolingo.cn, 🌍 海外服务
-DOMAIN-SUFFIX,edditstatic.com, 🌍 海外服务
-DOMAIN-SUFFIX,flickriver.com, 🌍 海外服务
-DOMAIN-SUFFIX,focustaiwan.tw, 🌍 海外服务
-DOMAIN-SUFFIX,free.fr, 🌍 海外服务
-DOMAIN-SUFFIX,gigacircle.com, 🌍 海外服务
-DOMAIN-SUFFIX,hk-pub.com, 🌍 海外服务
-DOMAIN-SUFFIX,hosting.co.uk, 🌍 海外服务
-DOMAIN-SUFFIX,hwcdn.net, 🌍 海外服务
-DOMAIN-SUFFIX,ifixit.com, 🌍 海外服务
-DOMAIN-SUFFIX,iphone4hongkong.com, 🌍 海外服务
-DOMAIN-SUFFIX,iphonetaiwan.org, 🌍 海外服务
-DOMAIN-SUFFIX,iptvbin.com, 🌍 海外服务
-DOMAIN-SUFFIX,linksalpha.com, 🌍 海外服务
-DOMAIN-SUFFIX,manyvids.com, 🌍 海外服务
-DOMAIN-SUFFIX,myactimes.com, 🌍 海外服务
-DOMAIN-SUFFIX,newsblur.com, 🌍 海外服务
-DOMAIN-SUFFIX,now.im, 🌍 海外服务
-DOMAIN-SUFFIX,nowe.com, 🌍 海外服务
-DOMAIN-SUFFIX,redditlist.com, 🌍 海外服务
-DOMAIN-SUFFIX,s3.amazonaws.com, 🌍 海外服务
-DOMAIN-SUFFIX,signal.org, 🌍 海外服务
-DOMAIN-SUFFIX,smartmailcloud.com, 🌍 海外服务
-DOMAIN-SUFFIX,sparknotes.com, 🌍 海外服务
-DOMAIN-SUFFIX,streetvoice.com, 🌍 海外服务
-DOMAIN-SUFFIX,supertop.co, 🌍 海外服务
-DOMAIN-SUFFIX,tv.com, 🌍 海外服务
-DOMAIN-SUFFIX,typepad.com, 🌍 海外服务
-DOMAIN-SUFFIX,udnbkk.com, 🌍 海外服务
-DOMAIN-SUFFIX,urbanairship.com, 🌍 海外服务
-DOMAIN-SUFFIX,whispersystems.org, 🌍 海外服务
-DOMAIN-SUFFIX,wikia.com, 🌍 海外服务
-DOMAIN-SUFFIX,wn.com, 🌍 海外服务
-DOMAIN-SUFFIX,wolframalpha.com, 🌍 海外服务
-DOMAIN-SUFFIX,x-art.com, 🌍 海外服务
-DOMAIN-SUFFIX,yimg.com, 🌍 海外服务
-host,api.steampowered.com, 🌍 海外服务
-host,store.steampowered.com, 🌍 海外服务
+DOMAIN-SUFFIX,0rz.tw
+DOMAIN-SUFFIX,4bluestones.biz
+DOMAIN-SUFFIX,9bis.net
+DOMAIN-SUFFIX,allconnected.co
+DOMAIN-SUFFIX,aol.com
+DOMAIN-SUFFIX,bcc.com.tw
+DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,bitshare.com
+DOMAIN-SUFFIX,blog.jp
+DOMAIN-SUFFIX,blogimg.jp
+DOMAIN-SUFFIX,blogtd.org
+DOMAIN-SUFFIX,broadcast.co.nz
+DOMAIN-SUFFIX,camfrog.com
+DOMAIN-SUFFIX,cfos.de
+DOMAIN-SUFFIX,citypopulation.de
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,ctitv.com.tw
+DOMAIN-SUFFIX,cuhk.edu.hk
+DOMAIN-SUFFIX,cusu.hk
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discuss.com.hk
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,duolingo.cn
+DOMAIN-SUFFIX,edditstatic.com
+DOMAIN-SUFFIX,flickriver.com
+DOMAIN-SUFFIX,focustaiwan.tw
+DOMAIN-SUFFIX,free.fr
+DOMAIN-SUFFIX,gigacircle.com
+DOMAIN-SUFFIX,hk-pub.com
+DOMAIN-SUFFIX,hosting.co.uk
+DOMAIN-SUFFIX,hwcdn.net
+DOMAIN-SUFFIX,ifixit.com
+DOMAIN-SUFFIX,iphone4hongkong.com
+DOMAIN-SUFFIX,iphonetaiwan.org
+DOMAIN-SUFFIX,iptvbin.com
+DOMAIN-SUFFIX,linksalpha.com
+DOMAIN-SUFFIX,manyvids.com
+DOMAIN-SUFFIX,myactimes.com
+DOMAIN-SUFFIX,newsblur.com
+DOMAIN-SUFFIX,now.im
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,redditlist.com
+DOMAIN-SUFFIX,s3.amazonaws.com
+DOMAIN-SUFFIX,signal.org
+DOMAIN-SUFFIX,smartmailcloud.com
+DOMAIN-SUFFIX,sparknotes.com
+DOMAIN-SUFFIX,streetvoice.com
+DOMAIN-SUFFIX,supertop.co
+DOMAIN-SUFFIX,tv.com
+DOMAIN-SUFFIX,typepad.com
+DOMAIN-SUFFIX,udnbkk.com
+DOMAIN-SUFFIX,urbanairship.com
+DOMAIN-SUFFIX,whispersystems.org
+DOMAIN-SUFFIX,wikia.com
+DOMAIN-SUFFIX,wn.com
+DOMAIN-SUFFIX,wolframalpha.com
+DOMAIN-SUFFIX,x-art.com
+DOMAIN-SUFFIX,yimg.com
+host,api.steampowered.com
+host,store.steampowered.com
 
 #机场
-DOMAIN-SUFFIX,naixisubs.com, 🌍 海外服务
+DOMAIN-SUFFIX,naixisubs.com
