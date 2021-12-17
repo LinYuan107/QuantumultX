@@ -13,15 +13,11 @@ host-suffix, anti-ad.net
 host-suffix, github.com
 host-suffix, oxygenplaza.net
 
-# > 小狐狸钱包&赛博之龙&辅助网站
-host-suffix, p2epop.com
-host-suffix, tool.0x0.club
-host-suffix, metamask.io,🌍 海外服务
-host-suffix, pancakeswap.finance
+# > 链游网站&辅助网站
 host-suffix, game.binaryx.pro
 host-suffix, m.binaryx.pro
-host-suffix, bscscan.com
-host-suffix, bsc-dataseed.binance.org
+host-suffix, p2epop.com
+host-suffix, tool.0x0.club
 
 # > Google
 DOMAIN-SUFFIX,ampproject.org
