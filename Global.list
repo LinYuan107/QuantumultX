@@ -13,12 +13,6 @@ host-suffix, anti-ad.net
 host-suffix, github.com
 host-suffix, oxygenplaza.net
 
-# > 链游网站&辅助网站
-host-suffix, game.binaryx.pro
-host-suffix, m.binaryx.pro
-host-suffix, p2epop.com
-host-suffix, tool.0x0.club
-
 # > Google
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,appspot.com
