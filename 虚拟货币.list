@@ -1,5 +1,8 @@
-# 论坛
+# 论坛&区块链相关
 DOMAIN-SUFFIX,bitcointalk.org
+DOMAIN-SUFFIX,walletconnect.com
+DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,cryptocompare.com
 
 # 交易所&钱包
 DOMAIN-SUFFIX,aex.com
