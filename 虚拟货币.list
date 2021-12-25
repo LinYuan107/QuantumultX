@@ -5,10 +5,11 @@ DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,cryptocompare.com
 
 # > 链游网站&辅助网站
-host-suffix, game.binaryx.pro
-host-suffix, m.binaryx.pro
-host-suffix, p2epop.com
-host-suffix, tool.0x0.club
+DOMAIN-SUFFIX,game.binaryx.pro
+DOMAIN-SUFFIX,m.binaryx.pro
+DOMAIN-SUFFIX,p2epop.com
+DOMAIN-SUFFIX,pop2e.com
+DOMAIN-SUFFIX,tool.0x0.club
 
 # 交易所&钱包
 DOMAIN-SUFFIX,aex.com
