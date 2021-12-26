@@ -35,3 +35,10 @@ DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN,ppq.apple.com // Enterprise App validation
+
+# 其他
+host,testflight.apple.com
+host,books.itunes.apple.com
+host,hls.itunes.apple.com
+host,api-glb-sea.smoot.apple.com
+host,lookup-api.apple.com
