@@ -1,19 +1,28 @@
 #海外网站
 # > 自定义网站  
-host-suffix, githubusercontent.com
-host-suffix, limbopro.com
-host-suffix, limbopro.xyz
-host-suffix, app.even.stream
-host-suffix, zztt14.com
-host-suffix, 899189.com
-host-suffix, 119699.com
-host-suffix, chuniao17.me
-host-suffix, chuniao15.me
-host-suffix, anti-ad.net
-host-suffix, github.com
-host-suffix, oxygenplaza.net
+DOMAIN-SUFFIX, limbopro.com
+DOMAIN-SUFFIX, limbopro.xyz
+DOMAIN-SUFFIX, app.even.stream
+DOMAIN-SUFFIX, zztt14.com
+DOMAIN-SUFFIX, 899189.com
+DOMAIN-SUFFIX, 119699.com
+DOMAIN-SUFFIX, chuniao17.me
+DOMAIN-SUFFIX, chuniao15.me
+DOMAIN-SUFFIX, anti-ad.net
+DOMAIN-SUFFIX, oxygenplaza.net
 
-# > Google
+# > 机场
+DOMAIN-SUFFIX,naixisubs.com
+
+# > Apple<苹果>
+DOMAIN-SUFFIX,appsto.re
+host,testflight.apple.com
+host,books.itunes.apple.com
+host,hls.itunes.apple.com
+host,api-glb-sea.smoot.apple.com
+host,lookup-api.apple.com
+
+# > Google<谷歌>
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,blogger.com
@@ -22,12 +31,104 @@ DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-host-keyword,google
-host-keyword,blogspot
-# > Microsoft
+DOMAIN-SUFFIX,abc.xyz
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,androidify.com
+DOMAIN-SUFFIX,dialogflow.com
+DOMAIN-SUFFIX,autodraw.com
+DOMAIN-SUFFIX,capitalg.com
+DOMAIN-SUFFIX,certificate-transparency.org
+DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,chromeexperiments.com
+DOMAIN-SUFFIX,chromestatus.com
+DOMAIN-SUFFIX,chromium.org
+DOMAIN-SUFFIX,creativelab5.com
+DOMAIN-SUFFIX,debug.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,getmdl.io
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,gmodules.com
+DOMAIN-SUFFIX,godoc.org
+DOMAIN-SUFFIX,golang.org
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gv.com
+DOMAIN-SUFFIX,gwtproject.org
+DOMAIN-SUFFIX,itasoftware.com
+DOMAIN-SUFFIX,madewithcode.com
+DOMAIN-SUFFIX,material.io
+DOMAIN-SUFFIX,polymer-project.org
+DOMAIN-SUFFIX,admin.recaptcha.net
+DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,shattered.io
+DOMAIN-SUFFIX,synergyse.com
+DOMAIN-SUFFIX,tensorflow.org
+DOMAIN-SUFFIX,tfhub.dev
+DOMAIN-SUFFIX,tiltbrush.com
+DOMAIN-SUFFIX,waveprotocol.org
+DOMAIN-SUFFIX,waymo.com
+DOMAIN-SUFFIX,webmproject.org
+DOMAIN-SUFFIX,webrtc.org
+DOMAIN-SUFFIX,whatbrowser.org
+DOMAIN-SUFFIX,widevine.com
+DOMAIN-SUFFIX,x.company
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,ytimg.com
+HOST-KEYWORD,google
+HOST-KEYWORD,blogspot
+
+# > Microsoft<微软>
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,xboxlive.com
-# > Learning
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,1drv.ms
+DOMAIN-SUFFIX,blob.core.windows.net
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,storage.msn.com
+host,oneclient.sfx.ms
+
+# > Facebook<脸谱>
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbaddins.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,fbworkmail.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,rocksdb.org
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+HOST-KEYWORD,facebook
+ip-cidr, 3.123.36.126/32
+ip-cidr, 35.157.215.84/32
+ip-cidr, 35.157.217.255/32
+ip-cidr, 52.58.209.134/32
+ip-cidr, 54.93.124.31/32
+ip-cidr, 54.162.243.80/32
+ip-cidr, 54.173.34.141/32
+ip-cidr, 54.235.23.242/32
+ip-cidr, 169.45.248.118/32
+
+# > Twitter<推特>
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,vine.co
+HOST-KEYWORD,twitter
+
+# > Learning<学术网站>
 DOMAIN-SUFFIX,acm.org
 DOMAIN-SUFFIX,acs.org
 DOMAIN-SUFFIX,aip.org
@@ -104,53 +205,7 @@ DOMAIN-SUFFIX,westlawchina.com
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,worldbank.org
 DOMAIN-SUFFIX,worldscientific.com
-# > Facebook
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,fb.com
-DOMAIN-SUFFIX,fb.me
-DOMAIN-SUFFIX,fbaddins.com
-DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,fbsbx.com
-DOMAIN-SUFFIX,fbworkmail.com
-DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,m.me
-DOMAIN-SUFFIX,messenger.com
-DOMAIN-SUFFIX,oculus.com
-DOMAIN-SUFFIX,oculuscdn.com
-DOMAIN-SUFFIX,rocksdb.org
-DOMAIN-SUFFIX,whatsapp.com
-DOMAIN-SUFFIX,whatsapp.net
-host-keyword,facebook
-ip-cidr, 3.123.36.126/32
-ip-cidr, 35.157.215.84/32
-ip-cidr, 35.157.217.255/32
-ip-cidr, 52.58.209.134/32
-ip-cidr, 54.93.124.31/32
-ip-cidr, 54.162.243.80/32
-ip-cidr, 54.173.34.141/32
-ip-cidr, 54.235.23.242/32
-ip-cidr, 169.45.248.118/32
-# > Twitter
-DOMAIN-SUFFIX,pscp.tv
-DOMAIN-SUFFIX,periscope.tv
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,vine.co
-host-keyword,twitter
-# > Telegram
-DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,tdesktop.com
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,telegram.org
-ip-cidr, 91.108.4.0/22
-ip-cidr, 91.108.8.0/22
-ip-cidr, 91.108.12.0/22
-ip-cidr, 91.108.16.0/22
-ip-cidr, 91.108.56.0/22
-ip-cidr, 149.154.160.0/20
+
 # > Line
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,line-apps.com
@@ -160,7 +215,8 @@ ip-cidr, 103.2.30.0/23
 ip-cidr, 125.209.208.0/20
 ip-cidr, 147.92.128.0/17
 ip-cidr, 203.104.144.0/21
-# > Other
+
+# > 其他
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,520cc.cc
 DOMAIN-SUFFIX,881903.com
@@ -462,133 +518,11 @@ DOMAIN-SUFFIX,zb.com
 DOMAIN-SUFFIX,zello.com
 DOMAIN-SUFFIX,zeronet.io
 DOMAIN-SUFFIX,zoom.us
-host-keyword,github
-host-keyword,jav
-host-keyword,pinterest
-host-keyword,porn
-host-keyword,wikileaks
-
-# (Region-Restricted Access Denied)
-DOMAIN-SUFFIX,apartmentratings.com
-DOMAIN-SUFFIX,apartments.com
-DOMAIN-SUFFIX,bankmobilevibe.com
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,booktopia.com.au
-DOMAIN-SUFFIX,cccat.io
-DOMAIN-SUFFIX,centauro.com.br
-DOMAIN-SUFFIX,clearsurance.com
-DOMAIN-SUFFIX,costco.com
-DOMAIN-SUFFIX,crackle.com
-DOMAIN-SUFFIX,depositphotos.cn
-DOMAIN-SUFFIX,dish.com
-DOMAIN-SUFFIX,dmm.co.jp
-DOMAIN-SUFFIX,dmm.com
-DOMAIN-SUFFIX,dnvod.tv
-DOMAIN-SUFFIX,esurance.com
-DOMAIN-SUFFIX,extmatrix.com
-DOMAIN-SUFFIX,fastpic.ru
-DOMAIN-SUFFIX,flipboard.com
-DOMAIN-SUFFIX,fnac.be
-DOMAIN-SUFFIX,fnac.com
-DOMAIN-SUFFIX,funkyimg.com
-DOMAIN-SUFFIX,fxnetworks.com
-DOMAIN-SUFFIX,gettyimages.com
-DOMAIN-SUFFIX,go.com
-DOMAIN-SUFFIX,here.com
-DOMAIN-SUFFIX,jcpenney.com
-DOMAIN-SUFFIX,jiehua.tv
-DOMAIN-SUFFIX,mailfence.com
-DOMAIN-SUFFIX,nationwide.com
-DOMAIN-SUFFIX,nbc.com
-DOMAIN-SUFFIX,nexon.com
-DOMAIN-SUFFIX,nordstrom.com
-DOMAIN-SUFFIX,nordstromimage.com
-DOMAIN-SUFFIX,nordstromrack.com
-DOMAIN-SUFFIX,superpages.com
-DOMAIN-SUFFIX,target.com
-DOMAIN-SUFFIX,thinkgeek.com
-DOMAIN-SUFFIX,tracfone.com
-DOMAIN-SUFFIX,unity3d.com
-DOMAIN-SUFFIX,uploader.jp
-DOMAIN-SUFFIX,vevo.com
-DOMAIN-SUFFIX,viu.tv
-DOMAIN-SUFFIX,vk.com
-DOMAIN-SUFFIX,vsco.co
-DOMAIN-SUFFIX,xfinity.com
-DOMAIN-SUFFIX,zattoo.com
-user-agent,Roam*
-
-# (The Most Popular Sites)
-# > Apple
-# >> TestFlight
-host,testflight.apple.com
-# >> Apple URL Shortener
-DOMAIN-SUFFIX,appsto.re
-# >> iBooks Store download
-host,books.itunes.apple.com
-# >> iTunes Store Moveis Trailers
-host,hls.itunes.apple.com
-# >> Spotlight
-host,api-glb-sea.smoot.apple.com
-# >> Dictionary
-host,lookup-api.apple.com
-# > Google
-DOMAIN-SUFFIX,abc.xyz
-DOMAIN-SUFFIX,android.com
-DOMAIN-SUFFIX,androidify.com
-DOMAIN-SUFFIX,dialogflow.com
-DOMAIN-SUFFIX,autodraw.com
-DOMAIN-SUFFIX,capitalg.com
-DOMAIN-SUFFIX,certificate-transparency.org
-DOMAIN-SUFFIX,chrome.com
-DOMAIN-SUFFIX,chromeexperiments.com
-DOMAIN-SUFFIX,chromestatus.com
-DOMAIN-SUFFIX,chromium.org
-DOMAIN-SUFFIX,creativelab5.com
-DOMAIN-SUFFIX,debug.com
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,firebaseio.com
-DOMAIN-SUFFIX,getmdl.io
-DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,gmail.com
-DOMAIN-SUFFIX,gmodules.com
-DOMAIN-SUFFIX,godoc.org
-DOMAIN-SUFFIX,golang.org
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,gv.com
-DOMAIN-SUFFIX,gwtproject.org
-DOMAIN-SUFFIX,itasoftware.com
-DOMAIN-SUFFIX,madewithcode.com
-DOMAIN-SUFFIX,material.io
-DOMAIN-SUFFIX,polymer-project.org
-DOMAIN-SUFFIX,admin.recaptcha.net
-DOMAIN-SUFFIX,recaptcha.net
-DOMAIN-SUFFIX,shattered.io
-DOMAIN-SUFFIX,synergyse.com
-DOMAIN-SUFFIX,tensorflow.org
-DOMAIN-SUFFIX,tfhub.dev
-DOMAIN-SUFFIX,tiltbrush.com
-DOMAIN-SUFFIX,waveprotocol.org
-DOMAIN-SUFFIX,waymo.com
-DOMAIN-SUFFIX,webmproject.org
-DOMAIN-SUFFIX,webrtc.org
-DOMAIN-SUFFIX,whatbrowser.org
-DOMAIN-SUFFIX,widevine.com
-DOMAIN-SUFFIX,x.company
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,ytimg.com
-# > Microsoft
-# >> Microsoft OneDrive
-DOMAIN-SUFFIX,1drv.com
-DOMAIN-SUFFIX,1drv.ms
-DOMAIN-SUFFIX,blob.core.windows.net
-DOMAIN-SUFFIX,livefilestore.com
-DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,storage.live.com
-DOMAIN-SUFFIX,storage.msn.com
-host,oneclient.sfx.ms
-# > Other
+HOST-KEYWORD,github
+HOST-KEYWORD,jav
+HOST-KEYWORD,pinterest
+HOST-KEYWORD,porn
+HOST-KEYWORD,wikileaks
 DOMAIN-SUFFIX,0rz.tw
 DOMAIN-SUFFIX,4bluestones.biz
 DOMAIN-SUFFIX,9bis.net
@@ -650,5 +584,52 @@ DOMAIN-SUFFIX,yimg.com
 host,api.steampowered.com
 host,store.steampowered.com
 
-#机场
-DOMAIN-SUFFIX,naixisubs.com
+# (Region-Restricted Access Denied)
+DOMAIN-SUFFIX,apartmentratings.com
+DOMAIN-SUFFIX,apartments.com
+DOMAIN-SUFFIX,bankmobilevibe.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,booktopia.com.au
+DOMAIN-SUFFIX,cccat.io
+DOMAIN-SUFFIX,centauro.com.br
+DOMAIN-SUFFIX,clearsurance.com
+DOMAIN-SUFFIX,costco.com
+DOMAIN-SUFFIX,crackle.com
+DOMAIN-SUFFIX,depositphotos.cn
+DOMAIN-SUFFIX,dish.com
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,dnvod.tv
+DOMAIN-SUFFIX,esurance.com
+DOMAIN-SUFFIX,extmatrix.com
+DOMAIN-SUFFIX,fastpic.ru
+DOMAIN-SUFFIX,flipboard.com
+DOMAIN-SUFFIX,fnac.be
+DOMAIN-SUFFIX,fnac.com
+DOMAIN-SUFFIX,funkyimg.com
+DOMAIN-SUFFIX,fxnetworks.com
+DOMAIN-SUFFIX,gettyimages.com
+DOMAIN-SUFFIX,go.com
+DOMAIN-SUFFIX,here.com
+DOMAIN-SUFFIX,jcpenney.com
+DOMAIN-SUFFIX,jiehua.tv
+DOMAIN-SUFFIX,mailfence.com
+DOMAIN-SUFFIX,nationwide.com
+DOMAIN-SUFFIX,nbc.com
+DOMAIN-SUFFIX,nexon.com
+DOMAIN-SUFFIX,nordstrom.com
+DOMAIN-SUFFIX,nordstromimage.com
+DOMAIN-SUFFIX,nordstromrack.com
+DOMAIN-SUFFIX,superpages.com
+DOMAIN-SUFFIX,target.com
+DOMAIN-SUFFIX,thinkgeek.com
+DOMAIN-SUFFIX,tracfone.com
+DOMAIN-SUFFIX,unity3d.com
+DOMAIN-SUFFIX,uploader.jp
+DOMAIN-SUFFIX,vevo.com
+DOMAIN-SUFFIX,viu.tv
+DOMAIN-SUFFIX,vk.com
+DOMAIN-SUFFIX,vsco.co
+DOMAIN-SUFFIX,xfinity.com
+DOMAIN-SUFFIX,zattoo.com
+user-agent,Roam*
