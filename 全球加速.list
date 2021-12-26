@@ -14,14 +14,6 @@ DOMAIN-SUFFIX, oxygenplaza.net
 # > 机场
 DOMAIN-SUFFIX,naixisubs.com
 
-# > Apple<苹果>
-DOMAIN-SUFFIX,appsto.re
-host,testflight.apple.com
-host,books.itunes.apple.com
-host,hls.itunes.apple.com
-host,api-glb-sea.smoot.apple.com
-host,lookup-api.apple.com
-
 # > Google<谷歌>
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,appspot.com
