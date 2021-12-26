@@ -1,5 +1,6 @@
 #海外网站
-# > 自定义网站  
+# > 自定义网站 
+DOMAIN-SUFFIX, githubusercontent.com 
 DOMAIN-SUFFIX, limbopro.com
 DOMAIN-SUFFIX, limbopro.xyz
 DOMAIN-SUFFIX, app.even.stream
